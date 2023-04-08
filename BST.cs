@@ -1,121 +1,106 @@
-﻿namespace RecursiveDataStructuresK81
+﻿using System;
+
+namespace RecursiveDataStructuresK81
 {
-    // definicja węzła drzewa BST
     public class NodeBST
     {
-        public int key;
-        public NodeBST left, right;
+        public int Key;
+        public int Value;
+        public NodeBST Less;
+        public NodeBST Greater;
 
-        public NodeBST(int item)
+        public NodeBST(int key, int value)
         {
-            key = item;
-            left = right = null;
+            Key = key;
+            Value = value;
+            Less = null;
+            Greater = null;
         }
     }
 
-    // definicja drzewa BST
     public class BST
     {
         public NodeBST root;
 
-        // konstruktor
-        public BST()
+        public NodeBST Search(int key, NodeBST currentNode)
         {
-            root = null;
+            if (currentNode == null || currentNode.Key == key)
+                return currentNode;
+            if (currentNode.Key > key)
+                return Search(key, currentNode.Less);
+            return Search(key, currentNode.Greater);
         }
 
-        // dodanie elementu
-        public void Insert(int key)
-        {
-            root = InsertRec(root, key);
-        }
-
-        // rekurencyjne dodawanie elementu w odpowiednim miejscu poprzez sprawdzanie czy klucz mniejszy / większy
-        private NodeBST InsertRec(NodeBST root, int key)
+        public bool Insert(int key, int value)
         {
             if (root == null)
             {
-                root = new NodeBST(key);
-                return root;
+                root = new NodeBST(key, value);
+                return true;
             }
-
-            if (key < root.key)
-                root.left = InsertRec(root.left, key);
-            else if (key > root.key)
-                root.right = InsertRec(root.right, key);
-
-            return root;
-        }
-
-        // usunięcie elementu
-        public void Delete(int key)
-        {
-            root = DeleteRec(root, key);
-        }
-
-        // rekurencyjne usuwanie elementu z odpowiedniego miejsca
-        private NodeBST DeleteRec(NodeBST root, int key)
-        {
-            if (root == null) return root;
-
-            if (key < root.key)
-                root.left = DeleteRec(root.left, key);
-            else if (key > root.key)
-                root.right = DeleteRec(root.right, key);
-            else
+            var currentNode = root;
+            while (true)
             {
-                if (root.left == null)
-                    return root.right;
-                else if (root.right == null)
-                    return root.left;
-
-                root.key = MinValue(root.right);
-
-                root.right = DeleteRec(root.right, root.key);
+                if (key == currentNode.Key)
+                    return false;
+                if (key < currentNode.Key)
+                {
+                    if (currentNode.Less == null)
+                    {
+                        currentNode.Less = new NodeBST(key, value);
+                        return true;
+                    }
+                    currentNode = currentNode.Less;
+                }
+                else
+                {
+                    if (currentNode.Greater == null)
+                    {
+                        currentNode.Greater = new NodeBST(key, value);
+                        return true;
+                    }
+                    currentNode = currentNode.Greater;
+                }
             }
-
-            return root;
         }
 
-        // pobieranie najmniejszego elementu
-        private int MinValue(NodeBST root)
+        private NodeBST MaxFromSubtree(NodeBST node)
         {
-            int minvalue = root.key;
-            while (root.left != null)
+            if (node.Greater == null)
+                return node;
+            return MaxFromSubtree(node.Greater);
+        }
+
+        public bool Remove(int key)
+        {
+            var rmPosition = Search(key, root);
+            if (rmPosition == null)
+                return false;
+            if (rmPosition.Less == null || rmPosition.Greater == null)
             {
-                minvalue = root.left.key;
-                root = root.left;
+                rmPosition = rmPosition.Less ?? rmPosition.Greater;
+                return true;
             }
-            return minvalue;
+            var maxLess = MaxFromSubtree(rmPosition.Less);
+            Remove(maxLess.Key);
+            rmPosition.Key = maxLess.Key;
+            rmPosition.Value = maxLess.Value;
+            return true;
         }
 
-        // dostęp do elementu o określonym kluczu
-        public NodeBST Search(int key)
+        public void Traverse(NodeBST node)
         {
-            return SearchRec(root, key);
-        }
-
-        // rekurencyjne przeszukiwanie
-        private NodeBST SearchRec(NodeBST root, int key)
-        {
-            if (root == null || root.key == key)
-                return root;
-
-            if (root.key < key)
-                return SearchRec(root.right, key);
-
-            return SearchRec(root.left, key);
-        }
-
-        // iterowanie po elementach w sposób rosnący po kluczu elementu
-        public void Traverse(NodeBST root)
-        {
-            if (root != null)
+            if (node != null)
             {
-                Traverse(root.left);
-                Console.Write(root.key + " ");
-                Traverse(root.right);
+                Traverse(node.Less);
+                Console.WriteLine($"{node.Key}, {node.Value}");
+                Traverse(node.Greater);
             }
+        }
+
+        public void PrintTree()
+        {
+            Traverse(root);
         }
     }
 }

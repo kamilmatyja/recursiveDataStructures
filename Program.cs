@@ -1,5 +1,5 @@
-﻿using RecursiveDataStructuresK81;
-using System.Xml.Linq;
+﻿using System;
+using RecursiveDataStructuresK81;
 
 public class Program
 {
@@ -7,73 +7,141 @@ public class Program
     {
         callBST();
         callAVL();
+
+        String x = Console.ReadLine();
     }
 
     static void callBST()
     {
-        Console.WriteLine();
-        Console.WriteLine("BST");
+        Random random = new Random();
 
-        BST tree = new BST();
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine("\r\nZestaw danych BST: {0}", i + 1);
 
-        tree.Insert(50);
-        tree.Insert(30);
-        tree.Insert(20);
-        tree.Insert(40);
-        tree.Insert(70);
-        tree.Insert(60);
-        tree.Insert(80);
+            BST tree = new BST();
 
-        Console.WriteLine("Inorder: ");
-        tree.Traverse(tree.root);
-        Console.WriteLine();
+            int randomNumbers = random.Next(3, 100);
+            for (int j = 1; j <= randomNumbers; j++)
+            {
+                int randomKey;
+                int randomValue;
 
-        Console.WriteLine("Znajdowanie elementu z kluczem 60: ");
-        NodeBST node = tree.Search(60);
-        if (node != null)
-            Console.WriteLine("Znaleziono: " + node.key);
-        else
-            Console.WriteLine("404");
+                if (i % 8 == 0)
+                {
+                    randomKey = j + 2;
+                    randomValue = j + 5;
+                }
+                else if (i % 9 == 0)
+                {
+                    randomKey = randomNumbers - j + 3;
+                    randomValue = randomNumbers - j + 6;
+                }
+                else
+                {
+                    randomKey = random.Next(1, 100);
+                    randomValue = random.Next(1, 100);
+                }
 
-        Console.WriteLine("Usuwanie elementu z kluczem 30:");
-        tree.Delete(30);
+                DateTime start = DateTime.Now;
+                tree.Insert(randomKey, randomValue);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania dodawania: {1}, klucz: {2}, zawartośś {3}", j, ts.TotalMilliseconds, randomKey, randomValue);
+            }
 
-        Console.WriteLine("Inorder: ");
-        tree.Traverse(tree.root);
-        Console.WriteLine();
+            for (int j = 1; j <= 10; j++)
+            {
+                int randomSearchKey = random.Next(1, 100);
+
+                DateTime start = DateTime.Now;
+                NodeBST node = tree.Search(randomSearchKey, tree.root);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania znajdowania: {1}, klucz: {2}", j, ts.TotalMilliseconds, randomSearchKey);
+                if (node != null)
+                {
+                    Console.Write(node.Value);
+                }
+            }
+
+            for (int j = 1; j <= 10; j++)
+            {
+                int randomRemoveKey = random.Next(1, 100);
+
+                DateTime start = DateTime.Now;
+                tree.Remove(randomRemoveKey);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania usuwania: {1}, klucz: {2}", j, ts.TotalMilliseconds, randomRemoveKey);
+            }
+        }
     }
 
     static void callAVL()
     {
-        Console.WriteLine();
-        Console.WriteLine("AVL");
+        Random random = new Random();
 
-        AVL tree = new AVL();
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine("\r\nZestaw danych AVL: {0}", i + 1);
 
-        tree.Insert(50);
-        tree.Insert(30);
-        tree.Insert(20);
-        tree.Insert(40);
-        tree.Insert(70);
-        tree.Insert(60);
-        tree.Insert(80);
+            AVL tree = new AVL();
 
-        Console.WriteLine("Inorder: ");
-        tree.Traverse(tree.root);
-        Console.WriteLine();
+            int randomNumbers = random.Next(3, 100);
+            for (int j = 1; j <= randomNumbers; j++)
+            {
+                int randomKey;
+                int randomValue;
 
-        Console.WriteLine("Znajdowanie elementu z kluczem 60: ");
-        NodeAVL node = tree.Search(60);
-        if (node != null)
-            Console.WriteLine("Znaleziono: " + node.key);
-        else
-            Console.WriteLine("404");
+                if (i % 8 == 0)
+                {
+                    randomKey = j + 2;
+                    randomValue = j + 5;
+                }
+                else if (i % 9 == 0)
+                {
+                    randomKey = randomNumbers - j + 3;
+                    randomValue = randomNumbers - j + 6;
+                }
+                else
+                {
+                    randomKey = random.Next(1, 100);
+                    randomValue = random.Next(1, 100);
+                }
 
-        Console.WriteLine("Usuwanie elementu z kluczem 30:");
-        tree.Delete(30);
+                DateTime start = DateTime.Now;
+                tree.Insert(randomKey, randomValue);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania dodawania: {1}, klucz: {2}, zawartośś {3}", j, ts.TotalMilliseconds, randomKey, randomValue);
+            }
 
-        Console.WriteLine("Inorder: ");
-        tree.Traverse(tree.root);
-        Console.WriteLine();
+            for (int j = 1; j <= 10; j++)
+            {
+                int randomSearchKey = random.Next(1, 100);
+
+                DateTime start = DateTime.Now;
+                NodeAVL node = tree.Search(randomSearchKey, tree.root);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania znajdowania: {1}, klucz: {2}", j, ts.TotalMilliseconds, randomSearchKey);
+                if (node != null)
+                {
+                    Console.Write(node.Value);
+                }
+            }
+
+            for (int j = 1; j <= 10; j++)
+            {
+                int randomRemoveKey = random.Next(1, 100);
+
+                DateTime start = DateTime.Now;
+                tree.Remove(randomRemoveKey);
+                DateTime end = DateTime.Now;
+                TimeSpan ts = (end - start);
+                Console.WriteLine("{0}. Czas wykonania usuwania: {1}, klucz: {2}", j, ts.TotalMilliseconds, randomRemoveKey);
+            }
+        }
     }
 }

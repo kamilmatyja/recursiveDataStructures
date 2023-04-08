@@ -1,0 +1,1381 @@
+Zestaw danych BST: 1
+1. Czas wykonania dodawania: 6,3041, klucz: 3, zawartość 6
+2. Czas wykonania dodawania: 0,0045, klucz: 4, zawartość 7
+3. Czas wykonania dodawania: 0,0019, klucz: 5, zawartość 8
+4. Czas wykonania dodawania: 0,002, klucz: 6, zawartość 9
+5. Czas wykonania dodawania: 0,001, klucz: 7, zawartość 10
+6. Czas wykonania dodawania: 0,0027, klucz: 8, zawartość 11
+7. Czas wykonania dodawania: 0,001, klucz: 9, zawartość 12
+8. Czas wykonania dodawania: 0,0015, klucz: 10, zawartość 13
+9. Czas wykonania dodawania: 0,0027, klucz: 11, zawartość 14
+10. Czas wykonania dodawania: 0,0022, klucz: 12, zawartość 15
+11. Czas wykonania dodawania: 0,0023, klucz: 13, zawartość 16
+12. Czas wykonania dodawania: 0,0154, klucz: 14, zawartość 17
+13. Czas wykonania dodawania: 0,0023, klucz: 15, zawartość 18
+14. Czas wykonania dodawania: 0,0023, klucz: 16, zawartość 19
+15. Czas wykonania dodawania: 0,0021, klucz: 17, zawartość 20
+16. Czas wykonania dodawania: 0,0009, klucz: 18, zawartość 21
+17. Czas wykonania dodawania: 0,0009, klucz: 19, zawartość 22
+18. Czas wykonania dodawania: 0,0008, klucz: 20, zawartość 23
+19. Czas wykonania dodawania: 0,0009, klucz: 21, zawartość 24
+20. Czas wykonania dodawania: 0,0009, klucz: 22, zawartość 25
+21. Czas wykonania dodawania: 0,0009, klucz: 23, zawartość 26
+22. Czas wykonania dodawania: 0,0009, klucz: 24, zawartość 27
+23. Czas wykonania dodawania: 0,0016, klucz: 25, zawartość 28
+24. Czas wykonania dodawania: 0,001, klucz: 26, zawartość 29
+25. Czas wykonania dodawania: 0,001, klucz: 27, zawartość 30
+26. Czas wykonania dodawania: 0,0009, klucz: 28, zawartość 31
+27. Czas wykonania dodawania: 0,001, klucz: 29, zawartość 32
+28. Czas wykonania dodawania: 0,001, klucz: 30, zawartość 33
+29. Czas wykonania dodawania: 0,001, klucz: 31, zawartość 34
+30. Czas wykonania dodawania: 0,001, klucz: 32, zawartość 35
+31. Czas wykonania dodawania: 0,001, klucz: 33, zawartość 36
+32. Czas wykonania dodawania: 0,0011, klucz: 34, zawartość 37
+33. Czas wykonania dodawania: 0,001, klucz: 35, zawartość 38
+34. Czas wykonania dodawania: 0,0011, klucz: 36, zawartość 39
+35. Czas wykonania dodawania: 0,0011, klucz: 37, zawartość 40
+36. Czas wykonania dodawania: 0,0011, klucz: 38, zawartość 41
+37. Czas wykonania dodawania: 0,0011, klucz: 39, zawartość 42
+38. Czas wykonania dodawania: 0,0011, klucz: 40, zawartość 43
+39. Czas wykonania dodawania: 0,001, klucz: 41, zawartość 44
+40. Czas wykonania dodawania: 0,0032, klucz: 42, zawartość 45
+41. Czas wykonania dodawania: 0,0024, klucz: 43, zawartość 46
+42. Czas wykonania dodawania: 0,003, klucz: 44, zawartość 47
+43. Czas wykonania dodawania: 0,0029, klucz: 45, zawartość 48
+44. Czas wykonania dodawania: 0,0025, klucz: 46, zawartość 49
+45. Czas wykonania dodawania: 0,0022, klucz: 47, zawartość 50
+46. Czas wykonania dodawania: 0,003, klucz: 48, zawartość 51
+47. Czas wykonania dodawania: 0,003, klucz: 49, zawartość 52
+48. Czas wykonania dodawania: 0,0028, klucz: 50, zawartość 53
+49. Czas wykonania dodawania: 0,0028, klucz: 51, zawartość 54
+50. Czas wykonania dodawania: 0,0032, klucz: 52, zawartość 55
+51. Czas wykonania dodawania: 0,0031, klucz: 53, zawartość 56
+52. Czas wykonania dodawania: 0,0031, klucz: 54, zawartość 57
+53. Czas wykonania dodawania: 0,0029, klucz: 55, zawartość 58
+54. Czas wykonania dodawania: 0,0028, klucz: 56, zawartość 59
+55. Czas wykonania dodawania: 0,0027, klucz: 57, zawartość 60
+56. Czas wykonania dodawania: 0,0033, klucz: 58, zawartość 61
+57. Czas wykonania dodawania: 0,0031, klucz: 59, zawartość 62
+58. Czas wykonania dodawania: 0,0019, klucz: 60, zawartość 63
+59. Czas wykonania dodawania: 0,0026, klucz: 61, zawartość 64
+60. Czas wykonania dodawania: 0,0026, klucz: 62, zawartość 65
+61. Czas wykonania dodawania: 0,0026, klucz: 63, zawartość 66
+62. Czas wykonania dodawania: 0,0014, klucz: 64, zawartość 67
+63. Czas wykonania dodawania: 0,0026, klucz: 65, zawartość 68
+64. Czas wykonania dodawania: 0,0029, klucz: 66, zawartość 69
+65. Czas wykonania dodawania: 0,0078, klucz: 67, zawartość 70
+66. Czas wykonania dodawania: 0,0039, klucz: 68, zawartość 71
+67. Czas wykonania dodawania: 0,004, klucz: 69, zawartość 72
+68. Czas wykonania dodawania: 0,0026, klucz: 70, zawartość 73
+69. Czas wykonania dodawania: 0,0015, klucz: 71, zawartość 74
+70. Czas wykonania dodawania: 0,0015, klucz: 72, zawartość 75
+71. Czas wykonania dodawania: 0,0014, klucz: 73, zawartość 76
+72. Czas wykonania dodawania: 0,0028, klucz: 74, zawartość 77
+73. Czas wykonania dodawania: 0,0026, klucz: 75, zawartość 78
+74. Czas wykonania dodawania: 0,0023, klucz: 76, zawartość 79
+75. Czas wykonania dodawania: 0,0041, klucz: 77, zawartość 80
+76. Czas wykonania dodawania: 0,0033, klucz: 78, zawartość 81
+77. Czas wykonania dodawania: 0,0026, klucz: 79, zawartość 82
+78. Czas wykonania dodawania: 0,0026, klucz: 80, zawartość 83
+79. Czas wykonania dodawania: 0,0024, klucz: 81, zawartość 84
+80. Czas wykonania dodawania: 0,0034, klucz: 82, zawartość 85
+81. Czas wykonania dodawania: 0,0029, klucz: 83, zawartość 86
+82. Czas wykonania dodawania: 0,0034, klucz: 84, zawartość 87
+83. Czas wykonania dodawania: 0,0039, klucz: 85, zawartość 88
+84. Czas wykonania dodawania: 0,0038, klucz: 86, zawartość 89
+85. Czas wykonania dodawania: 0,003, klucz: 87, zawartość 90
+86. Czas wykonania dodawania: 0,0029, klucz: 88, zawartość 91
+1. Czas wykonania znajdowania: 0,3062, klucz: 33
+362. Czas wykonania znajdowania: 0,0035, klucz: 30
+333. Czas wykonania znajdowania: 0,0027, klucz: 11
+144. Czas wykonania znajdowania: 0,0031, klucz: 43
+465. Czas wykonania znajdowania: 0,002, klucz: 7
+106. Czas wykonania znajdowania: 0,0036, klucz: 65
+687. Czas wykonania znajdowania: 0,0021, klucz: 33
+368. Czas wykonania znajdowania: 0,0036, klucz: 69
+729. Czas wykonania znajdowania: 0,0022, klucz: 57
+6010. Czas wykonania znajdowania: 0,003, klucz: 76
+791. Czas wykonania usuwania: 0,2312, klucz: 46
+2. Czas wykonania usuwania: 0,002, klucz: 2
+3. Czas wykonania usuwania: 0,0037, klucz: 79
+4. Czas wykonania usuwania: 0,0022, klucz: 30
+5. Czas wykonania usuwania: 0,0021, klucz: 23
+6. Czas wykonania usuwania: 0,0042, klucz: 77
+7. Czas wykonania usuwania: 0,0029, klucz: 60
+8. Czas wykonania usuwania: 0,0017, klucz: 28
+9. Czas wykonania usuwania: 0,0035, klucz: 50
+10. Czas wykonania usuwania: 0,0034, klucz: 46
+
+Zestaw danych BST: 2
+1. Czas wykonania dodawania: 0,0023, klucz: 54, zawartość 88
+2. Czas wykonania dodawania: 0,0023, klucz: 93, zawartość 25
+3. Czas wykonania dodawania: 0,0022, klucz: 67, zawartość 84
+4. Czas wykonania dodawania: 0,0031, klucz: 52, zawartość 3
+5. Czas wykonania dodawania: 0,002, klucz: 99, zawartość 1
+6. Czas wykonania dodawania: 0,0024, klucz: 84, zawartość 74
+7. Czas wykonania dodawania: 0,0026, klucz: 32, zawartość 55
+8. Czas wykonania dodawania: 0,0025, klucz: 88, zawartość 6
+9. Czas wykonania dodawania: 0,0025, klucz: 89, zawartość 17
+10. Czas wykonania dodawania: 0,002, klucz: 38, zawartość 2
+11. Czas wykonania dodawania: 0,0022, klucz: 23, zawartość 73
+12. Czas wykonania dodawania: 0,0023, klucz: 30, zawartość 89
+13. Czas wykonania dodawania: 0,0027, klucz: 44, zawartość 88
+14. Czas wykonania dodawania: 0,0023, klucz: 59, zawartość 87
+15. Czas wykonania dodawania: 0,0018, klucz: 1, zawartość 80
+16. Czas wykonania dodawania: 0,0016, klucz: 74, zawartość 43
+17. Czas wykonania dodawania: 0,0014, klucz: 38, zawartość 87
+18. Czas wykonania dodawania: 0,0024, klucz: 68, zawartość 11
+19. Czas wykonania dodawania: 0,0017, klucz: 64, zawartość 85
+20. Czas wykonania dodawania: 0,0024, klucz: 57, zawartość 92
+21. Czas wykonania dodawania: 0,002, klucz: 66, zawartość 1
+22. Czas wykonania dodawania: 0,0028, klucz: 7, zawartość 78
+23. Czas wykonania dodawania: 0,0023, klucz: 71, zawartość 15
+24. Czas wykonania dodawania: 0,0017, klucz: 7, zawartość 35
+25. Czas wykonania dodawania: 0,0024, klucz: 16, zawartość 6
+26. Czas wykonania dodawania: 0,002, klucz: 3, zawartość 98
+27. Czas wykonania dodawania: 0,0024, klucz: 84, zawartość 67
+28. Czas wykonania dodawania: 0,002, klucz: 14, zawartość 33
+29. Czas wykonania dodawania: 0,0025, klucz: 3, zawartość 15
+30. Czas wykonania dodawania: 0,0024, klucz: 12, zawartość 63
+31. Czas wykonania dodawania: 0,0018, klucz: 29, zawartość 29
+32. Czas wykonania dodawania: 0,0025, klucz: 50, zawartość 98
+33. Czas wykonania dodawania: 0,0014, klucz: 23, zawartość 62
+34. Czas wykonania dodawania: 0,002, klucz: 97, zawartość 80
+35. Czas wykonania dodawania: 0,0015, klucz: 89, zawartość 80
+36. Czas wykonania dodawania: 0,0014, klucz: 57, zawartość 94
+37. Czas wykonania dodawania: 0,0015, klucz: 72, zawartość 85
+38. Czas wykonania dodawania: 0,0015, klucz: 37, zawartość 39
+39. Czas wykonania dodawania: 0,0017, klucz: 94, zawartość 91
+40. Czas wykonania dodawania: 0,0013, klucz: 1, zawartość 41
+41. Czas wykonania dodawania: 0,0015, klucz: 7, zawartość 28
+42. Czas wykonania dodawania: 0,0015, klucz: 97, zawartość 14
+43. Czas wykonania dodawania: 0,0015, klucz: 21, zawartość 24
+44. Czas wykonania dodawania: 0,0017, klucz: 11, zawartość 73
+45. Czas wykonania dodawania: 0,0026, klucz: 40, zawartość 2
+46. Czas wykonania dodawania: 0,0023, klucz: 18, zawartość 64
+47. Czas wykonania dodawania: 0,0019, klucz: 69, zawartość 93
+48. Czas wykonania dodawania: 0,002, klucz: 27, zawartość 97
+49. Czas wykonania dodawania: 0,0022, klucz: 11, zawartość 2
+50. Czas wykonania dodawania: 0,0016, klucz: 21, zawartość 20
+51. Czas wykonania dodawania: 0,0017, klucz: 81, zawartość 16
+52. Czas wykonania dodawania: 0,0017, klucz: 34, zawartość 48
+53. Czas wykonania dodawania: 0,0022, klucz: 48, zawartość 94
+54. Czas wykonania dodawania: 0,002, klucz: 48, zawartość 37
+55. Czas wykonania dodawania: 0,0016, klucz: 1, zawartość 29
+56. Czas wykonania dodawania: 0,0018, klucz: 25, zawartość 34
+1. Czas wykonania znajdowania: 0,0021, klucz: 4
+2. Czas wykonania znajdowania: 0,002, klucz: 57
+923. Czas wykonania znajdowania: 0,0019, klucz: 51
+4. Czas wykonania znajdowania: 0,0024, klucz: 90
+5. Czas wykonania znajdowania: 0,0024, klucz: 91
+6. Czas wykonania znajdowania: 0,0019, klucz: 34
+487. Czas wykonania znajdowania: 0,0024, klucz: 88
+68. Czas wykonania znajdowania: 0,0016, klucz: 96
+9. Czas wykonania znajdowania: 0,0022, klucz: 87
+10. Czas wykonania znajdowania: 0,0016, klucz: 79
+1. Czas wykonania usuwania: 0,0022, klucz: 34
+2. Czas wykonania usuwania: 0,0016, klucz: 80
+3. Czas wykonania usuwania: 0,0021, klucz: 60
+4. Czas wykonania usuwania: 0,0025, klucz: 25
+5. Czas wykonania usuwania: 0,0023, klucz: 29
+6. Czas wykonania usuwania: 0,0024, klucz: 75
+7. Czas wykonania usuwania: 0,2329, klucz: 38
+8. Czas wykonania usuwania: 0,002, klucz: 28
+9. Czas wykonania usuwania: 0,0015, klucz: 57
+10. Czas wykonania usuwania: 0,0013, klucz: 18
+
+Zestaw danych BST: 3
+1. Czas wykonania dodawania: 0,0025, klucz: 25, zawartość 61
+2. Czas wykonania dodawania: 0,0025, klucz: 17, zawartość 39
+3. Czas wykonania dodawania: 0,0025, klucz: 38, zawartość 38
+4. Czas wykonania dodawania: 0,0017, klucz: 71, zawartość 65
+5. Czas wykonania dodawania: 0,0027, klucz: 61, zawartość 45
+6. Czas wykonania dodawania: 0,0023, klucz: 85, zawartość 51
+7. Czas wykonania dodawania: 0,0018, klucz: 63, zawartość 42
+8. Czas wykonania dodawania: 0,0025, klucz: 54, zawartość 14
+9. Czas wykonania dodawania: 0,0028, klucz: 14, zawartość 20
+10. Czas wykonania dodawania: 0,0024, klucz: 80, zawartość 51
+11. Czas wykonania dodawania: 0,0022, klucz: 21, zawartość 62
+12. Czas wykonania dodawania: 0,0024, klucz: 70, zawartość 18
+13. Czas wykonania dodawania: 0,0023, klucz: 15, zawartość 70
+14. Czas wykonania dodawania: 0,0028, klucz: 77, zawartość 29
+15. Czas wykonania dodawania: 0,002, klucz: 20, zawartość 61
+16. Czas wykonania dodawania: 0,0016, klucz: 50, zawartość 76
+17. Czas wykonania dodawania: 0,0024, klucz: 40, zawartość 85
+18. Czas wykonania dodawania: 0,0019, klucz: 65, zawartość 64
+19. Czas wykonania dodawania: 0,0027, klucz: 49, zawartość 19
+20. Czas wykonania dodawania: 0,013, klucz: 68, zawartość 45
+21. Czas wykonania dodawania: 0,002, klucz: 72, zawartość 53
+22. Czas wykonania dodawania: 0,0018, klucz: 22, zawartość 90
+23. Czas wykonania dodawania: 0,0024, klucz: 77, zawartość 73
+24. Czas wykonania dodawania: 0,0022, klucz: 22, zawartość 41
+25. Czas wykonania dodawania: 0,0043, klucz: 80, zawartość 18
+26. Czas wykonania dodawania: 0,0023, klucz: 57, zawartość 13
+27. Czas wykonania dodawania: 0,0027, klucz: 66, zawartość 22
+28. Czas wykonania dodawania: 0,0021, klucz: 39, zawartość 57
+29. Czas wykonania dodawania: 0,0024, klucz: 75, zawartość 41
+30. Czas wykonania dodawania: 0,0025, klucz: 52, zawartość 10
+31. Czas wykonania dodawania: 0,0024, klucz: 59, zawartość 88
+32. Czas wykonania dodawania: 0,0021, klucz: 65, zawartość 87
+33. Czas wykonania dodawania: 0,002, klucz: 64, zawartość 63
+34. Czas wykonania dodawania: 0,0019, klucz: 80, zawartość 59
+35. Czas wykonania dodawania: 0,0024, klucz: 69, zawartość 5
+36. Czas wykonania dodawania: 0,0018, klucz: 52, zawartość 56
+37. Czas wykonania dodawania: 0,0017, klucz: 6, zawartość 73
+38. Czas wykonania dodawania: 0,0023, klucz: 3, zawartość 44
+39. Czas wykonania dodawania: 0,0019, klucz: 47, zawartość 51
+40. Czas wykonania dodawania: 0,0008, klucz: 40, zawartość 91
+41. Czas wykonania dodawania: 0,0022, klucz: 79, zawartość 4
+42. Czas wykonania dodawania: 0,0028, klucz: 41, zawartość 27
+43. Czas wykonania dodawania: 0,0024, klucz: 32, zawartość 72
+44. Czas wykonania dodawania: 0,0023, klucz: 20, zawartość 30
+45. Czas wykonania dodawania: 0,0025, klucz: 91, zawartość 25
+46. Czas wykonania dodawania: 0,0018, klucz: 49, zawartość 83
+47. Czas wykonania dodawania: 0,0024, klucz: 51, zawartość 56
+48. Czas wykonania dodawania: 0,002, klucz: 66, zawartość 51
+49. Czas wykonania dodawania: 0,0022, klucz: 61, zawartość 48
+50. Czas wykonania dodawania: 0,0028, klucz: 36, zawartość 23
+51. Czas wykonania dodawania: 0,0026, klucz: 64, zawartość 57
+52. Czas wykonania dodawania: 0,0023, klucz: 65, zawartość 82
+53. Czas wykonania dodawania: 0,0024, klucz: 58, zawartość 46
+54. Czas wykonania dodawania: 0,0052, klucz: 71, zawartość 57
+55. Czas wykonania dodawania: 0,0027, klucz: 51, zawartość 61
+56. Czas wykonania dodawania: 0,0027, klucz: 7, zawartość 67
+57. Czas wykonania dodawania: 0,0029, klucz: 97, zawartość 63
+58. Czas wykonania dodawania: 0,0023, klucz: 7, zawartość 65
+59. Czas wykonania dodawania: 0,0028, klucz: 43, zawartość 27
+60. Czas wykonania dodawania: 0,0024, klucz: 85, zawartość 11
+61. Czas wykonania dodawania: 0,0018, klucz: 14, zawartość 91
+62. Czas wykonania dodawania: 0,002, klucz: 97, zawartość 45
+63. Czas wykonania dodawania: 0,003, klucz: 74, zawartość 80
+64. Czas wykonania dodawania: 0,0027, klucz: 20, zawartość 88
+65. Czas wykonania dodawania: 0,0014, klucz: 20, zawartość 46
+66. Czas wykonania dodawania: 0,0026, klucz: 44, zawartość 35
+67. Czas wykonania dodawania: 0,0125, klucz: 81, zawartość 65
+68. Czas wykonania dodawania: 0,0024, klucz: 72, zawartość 27
+69. Czas wykonania dodawania: 0,0023, klucz: 19, zawartość 29
+70. Czas wykonania dodawania: 0,0025, klucz: 10, zawartość 29
+71. Czas wykonania dodawania: 0,0026, klucz: 89, zawartość 74
+72. Czas wykonania dodawania: 0,0019, klucz: 13, zawartość 22
+73. Czas wykonania dodawania: 0,0025, klucz: 31, zawartość 43
+74. Czas wykonania dodawania: 0,0019, klucz: 27, zawartość 54
+75. Czas wykonania dodawania: 0,0025, klucz: 1, zawartość 17
+76. Czas wykonania dodawania: 0,0024, klucz: 43, zawartość 63
+77. Czas wykonania dodawania: 0,0022, klucz: 81, zawartość 39
+78. Czas wykonania dodawania: 0,0018, klucz: 14, zawartość 87
+79. Czas wykonania dodawania: 0,0014, klucz: 19, zawartość 22
+1. Czas wykonania znajdowania: 0,0025, klucz: 48
+2. Czas wykonania znajdowania: 0,0023, klucz: 59
+883. Czas wykonania znajdowania: 0,0019, klucz: 93
+4. Czas wykonania znajdowania: 0,0024, klucz: 85
+515. Czas wykonania znajdowania: 0,0016, klucz: 19
+296. Czas wykonania znajdowania: 0,0023, klucz: 72
+537. Czas wykonania znajdowania: 0,0025, klucz: 64
+638. Czas wykonania znajdowania: 0,0022, klucz: 77
+299. Czas wykonania znajdowania: 0,0027, klucz: 89
+7410. Czas wykonania znajdowania: 0,0015, klucz: 54
+141. Czas wykonania usuwania: 0,0023, klucz: 54
+2. Czas wykonania usuwania: 0,0027, klucz: 70
+3. Czas wykonania usuwania: 0,0025, klucz: 24
+4. Czas wykonania usuwania: 0,0027, klucz: 47
+5. Czas wykonania usuwania: 0,0028, klucz: 81
+6. Czas wykonania usuwania: 0,002, klucz: 40
+7. Czas wykonania usuwania: 0,0021, klucz: 33
+8. Czas wykonania usuwania: 0,0021, klucz: 6
+9. Czas wykonania usuwania: 0,0021, klucz: 26
+10. Czas wykonania usuwania: 0,0022, klucz: 70
+
+Zestaw danych BST: 4
+1. Czas wykonania dodawania: 0,0017, klucz: 74, zawartość 32
+2. Czas wykonania dodawania: 0,0024, klucz: 98, zawartość 25
+3. Czas wykonania dodawania: 0,0025, klucz: 92, zawartość 67
+4. Czas wykonania dodawania: 0,002, klucz: 4, zawartość 38
+1. Czas wykonania znajdowania: 0,0018, klucz: 9
+2. Czas wykonania znajdowania: 0,0017, klucz: 77
+3. Czas wykonania znajdowania: 0,0018, klucz: 17
+4. Czas wykonania znajdowania: 0,0018, klucz: 77
+5. Czas wykonania znajdowania: 0,0024, klucz: 61
+6. Czas wykonania znajdowania: 0,0014, klucz: 18
+7. Czas wykonania znajdowania: 0,002, klucz: 93
+8. Czas wykonania znajdowania: 0,0023, klucz: 5
+9. Czas wykonania znajdowania: 0,0016, klucz: 43
+10. Czas wykonania znajdowania: 0,0019, klucz: 94
+1. Czas wykonania usuwania: 0,0094, klucz: 13
+2. Czas wykonania usuwania: 0,0021, klucz: 11
+3. Czas wykonania usuwania: 0,0019, klucz: 32
+4. Czas wykonania usuwania: 0,002, klucz: 39
+5. Czas wykonania usuwania: 0,0017, klucz: 59
+6. Czas wykonania usuwania: 0,0023, klucz: 64
+7. Czas wykonania usuwania: 0,002, klucz: 9
+8. Czas wykonania usuwania: 0,002, klucz: 38
+9. Czas wykonania usuwania: 0,0007, klucz: 23
+10. Czas wykonania usuwania: 0,001, klucz: 13
+
+Zestaw danych BST: 5
+1. Czas wykonania dodawania: 0,0018, klucz: 60, zawartość 97
+2. Czas wykonania dodawania: 0,0008, klucz: 94, zawartość 59
+3. Czas wykonania dodawania: 0,0021, klucz: 98, zawartość 48
+4. Czas wykonania dodawania: 0,0021, klucz: 19, zawartość 64
+5. Czas wykonania dodawania: 0,0019, klucz: 60, zawartość 65
+6. Czas wykonania dodawania: 0,0018, klucz: 67, zawartość 99
+7. Czas wykonania dodawania: 0,0019, klucz: 60, zawartość 44
+8. Czas wykonania dodawania: 0,0021, klucz: 76, zawartość 97
+9. Czas wykonania dodawania: 0,0022, klucz: 79, zawartość 26
+10. Czas wykonania dodawania: 0,0015, klucz: 56, zawartość 65
+11. Czas wykonania dodawania: 0,0022, klucz: 38, zawartość 5
+12. Czas wykonania dodawania: 0,0025, klucz: 23, zawartość 14
+13. Czas wykonania dodawania: 0,0016, klucz: 96, zawartość 85
+14. Czas wykonania dodawania: 0,002, klucz: 82, zawartość 48
+15. Czas wykonania dodawania: 0,0023, klucz: 19, zawartość 7
+16. Czas wykonania dodawania: 0,0021, klucz: 21, zawartość 84
+17. Czas wykonania dodawania: 0,0015, klucz: 61, zawartość 72
+18. Czas wykonania dodawania: 0,002, klucz: 37, zawartość 36
+19. Czas wykonania dodawania: 0,0009, klucz: 87, zawartość 60
+20. Czas wykonania dodawania: 0,0009, klucz: 91, zawartość 16
+21. Czas wykonania dodawania: 0,0025, klucz: 18, zawartość 20
+22. Czas wykonania dodawania: 0,002, klucz: 21, zawartość 46
+23. Czas wykonania dodawania: 0,0015, klucz: 98, zawartość 68
+24. Czas wykonania dodawania: 0,0018, klucz: 50, zawartość 93
+25. Czas wykonania dodawania: 0,0017, klucz: 60, zawartość 68
+26. Czas wykonania dodawania: 0,0026, klucz: 75, zawartość 33
+27. Czas wykonania dodawania: 0,0019, klucz: 67, zawartość 43
+28. Czas wykonania dodawania: 0,0012, klucz: 44, zawartość 94
+29. Czas wykonania dodawania: 0,0009, klucz: 4, zawartość 25
+30. Czas wykonania dodawania: 0,0009, klucz: 12, zawartość 86
+31. Czas wykonania dodawania: 0,0011, klucz: 89, zawartość 95
+32. Czas wykonania dodawania: 0,002, klucz: 21, zawartość 22
+33. Czas wykonania dodawania: 0,0022, klucz: 86, zawartość 31
+34. Czas wykonania dodawania: 0,0011, klucz: 68, zawartość 16
+35. Czas wykonania dodawania: 0,0021, klucz: 49, zawartość 74
+36. Czas wykonania dodawania: 0,0021, klucz: 96, zawartość 31
+37. Czas wykonania dodawania: 0,0022, klucz: 46, zawartość 54
+38. Czas wykonania dodawania: 0,0017, klucz: 95, zawartość 27
+39. Czas wykonania dodawania: 0,0047, klucz: 97, zawartość 26
+40. Czas wykonania dodawania: 0,0025, klucz: 5, zawartość 10
+41. Czas wykonania dodawania: 0,0027, klucz: 89, zawartość 55
+42. Czas wykonania dodawania: 0,0014, klucz: 7, zawartość 41
+43. Czas wykonania dodawania: 0,0015, klucz: 81, zawartość 88
+44. Czas wykonania dodawania: 0,0013, klucz: 83, zawartość 99
+45. Czas wykonania dodawania: 0,0028, klucz: 36, zawartość 32
+46. Czas wykonania dodawania: 0,0023, klucz: 35, zawartość 85
+47. Czas wykonania dodawania: 0,0025, klucz: 76, zawartość 13
+48. Czas wykonania dodawania: 0,0032, klucz: 2, zawartość 41
+49. Czas wykonania dodawania: 0,0027, klucz: 46, zawartość 70
+50. Czas wykonania dodawania: 0,0027, klucz: 25, zawartość 88
+51. Czas wykonania dodawania: 0,0021, klucz: 80, zawartość 78
+52. Czas wykonania dodawania: 0,0015, klucz: 65, zawartość 74
+53. Czas wykonania dodawania: 0,0008, klucz: 21, zawartość 59
+54. Czas wykonania dodawania: 0,0011, klucz: 9, zawartość 33
+55. Czas wykonania dodawania: 0,0008, klucz: 22, zawartość 18
+56. Czas wykonania dodawania: 0,0097, klucz: 14, zawartość 32
+57. Czas wykonania dodawania: 0,0008, klucz: 35, zawartość 24
+58. Czas wykonania dodawania: 0,0009, klucz: 88, zawartość 68
+59. Czas wykonania dodawania: 0,0008, klucz: 49, zawartość 74
+60. Czas wykonania dodawania: 0,0007, klucz: 87, zawartość 86
+61. Czas wykonania dodawania: 0,0009, klucz: 45, zawartość 9
+62. Czas wykonania dodawania: 0,0024, klucz: 40, zawartość 85
+63. Czas wykonania dodawania: 0,0026, klucz: 11, zawartość 9
+64. Czas wykonania dodawania: 0,0024, klucz: 14, zawartość 2
+65. Czas wykonania dodawania: 0,0026, klucz: 15, zawartość 6
+66. Czas wykonania dodawania: 0,0023, klucz: 38, zawartość 94
+67. Czas wykonania dodawania: 0,0023, klucz: 80, zawartość 84
+68. Czas wykonania dodawania: 0,0025, klucz: 81, zawartość 57
+1. Czas wykonania znajdowania: 0,0025, klucz: 38
+52. Czas wykonania znajdowania: 0,0025, klucz: 55
+3. Czas wykonania znajdowania: 0,0024, klucz: 20
+4. Czas wykonania znajdowania: 0,0022, klucz: 87
+605. Czas wykonania znajdowania: 0,0023, klucz: 76
+976. Czas wykonania znajdowania: 0,002, klucz: 75
+337. Czas wykonania znajdowania: 0,0024, klucz: 13
+8. Czas wykonania znajdowania: 0,0017, klucz: 59
+9. Czas wykonania znajdowania: 0,0021, klucz: 91
+1610. Czas wykonania znajdowania: 0,0011, klucz: 40
+851. Czas wykonania usuwania: 0,0019, klucz: 58
+2. Czas wykonania usuwania: 0,0022, klucz: 18
+3. Czas wykonania usuwania: 0,0012, klucz: 55
+4. Czas wykonania usuwania: 0,0007, klucz: 52
+5. Czas wykonania usuwania: 0,002, klucz: 93
+6. Czas wykonania usuwania: 0,001, klucz: 39
+7. Czas wykonania usuwania: 0,0019, klucz: 98
+8. Czas wykonania usuwania: 0,0016, klucz: 75
+9. Czas wykonania usuwania: 0,0022, klucz: 62
+10. Czas wykonania usuwania: 0,0023, klucz: 57
+
+Zestaw danych BST: 6
+1. Czas wykonania dodawania: 0,0021, klucz: 33, zawartość 90
+2. Czas wykonania dodawania: 0,002, klucz: 68, zawartość 14
+3. Czas wykonania dodawania: 0,0015, klucz: 35, zawartość 19
+4. Czas wykonania dodawania: 0,0019, klucz: 28, zawartość 76
+5. Czas wykonania dodawania: 0,0015, klucz: 77, zawartość 53
+6. Czas wykonania dodawania: 0,0026, klucz: 17, zawartość 41
+7. Czas wykonania dodawania: 0,0018, klucz: 15, zawartość 76
+8. Czas wykonania dodawania: 0,0019, klucz: 17, zawartość 16
+9. Czas wykonania dodawania: 0,0025, klucz: 62, zawartość 48
+10. Czas wykonania dodawania: 0,0021, klucz: 37, zawartość 95
+11. Czas wykonania dodawania: 0,002, klucz: 75, zawartość 31
+12. Czas wykonania dodawania: 0,0021, klucz: 52, zawartość 38
+13. Czas wykonania dodawania: 0,0017, klucz: 17, zawartość 48
+14. Czas wykonania dodawania: 0,002, klucz: 97, zawartość 86
+15. Czas wykonania dodawania: 0,0025, klucz: 78, zawartość 75
+16. Czas wykonania dodawania: 0,0024, klucz: 78, zawartość 20
+17. Czas wykonania dodawania: 0,0023, klucz: 95, zawartość 32
+18. Czas wykonania dodawania: 0,0024, klucz: 26, zawartość 19
+19. Czas wykonania dodawania: 0,0018, klucz: 82, zawartość 34
+20. Czas wykonania dodawania: 0,0023, klucz: 57, zawartość 28
+21. Czas wykonania dodawania: 0,0018, klucz: 71, zawartość 64
+22. Czas wykonania dodawania: 0,0018, klucz: 86, zawartość 14
+23. Czas wykonania dodawania: 0,0022, klucz: 90, zawartość 91
+24. Czas wykonania dodawania: 0,002, klucz: 37, zawartość 75
+25. Czas wykonania dodawania: 0,0022, klucz: 83, zawartość 86
+26. Czas wykonania dodawania: 0,002, klucz: 16, zawartość 10
+27. Czas wykonania dodawania: 0,0022, klucz: 94, zawartość 7
+28. Czas wykonania dodawania: 0,0013, klucz: 28, zawartość 10
+29. Czas wykonania dodawania: 0,0023, klucz: 25, zawartość 25
+30. Czas wykonania dodawania: 0,0022, klucz: 91, zawartość 90
+31. Czas wykonania dodawania: 0,0026, klucz: 70, zawartość 24
+32. Czas wykonania dodawania: 0,0015, klucz: 70, zawartość 93
+33. Czas wykonania dodawania: 0,0021, klucz: 55, zawartość 11
+34. Czas wykonania dodawania: 0,0023, klucz: 57, zawartość 58
+35. Czas wykonania dodawania: 0,0023, klucz: 1, zawartość 84
+36. Czas wykonania dodawania: 0,0022, klucz: 36, zawartość 82
+37. Czas wykonania dodawania: 0,0019, klucz: 6, zawartość 91
+38. Czas wykonania dodawania: 0,0021, klucz: 61, zawartość 92
+39. Czas wykonania dodawania: 0,0019, klucz: 18, zawartość 85
+40. Czas wykonania dodawania: 0,0026, klucz: 86, zawartość 40
+41. Czas wykonania dodawania: 0,0027, klucz: 59, zawartość 71
+42. Czas wykonania dodawania: 0,0013, klucz: 62, zawartość 68
+43. Czas wykonania dodawania: 0,0012, klucz: 97, zawartość 60
+44. Czas wykonania dodawania: 0,0011, klucz: 77, zawartość 90
+45. Czas wykonania dodawania: 0,0014, klucz: 39, zawartość 71
+46. Czas wykonania dodawania: 0,0013, klucz: 19, zawartość 90
+47. Czas wykonania dodawania: 0,0013, klucz: 18, zawartość 25
+48. Czas wykonania dodawania: 0,002, klucz: 17, zawartość 7
+49. Czas wykonania dodawania: 0,0025, klucz: 42, zawartość 23
+1. Czas wykonania znajdowania: 0,0023, klucz: 93
+2. Czas wykonania znajdowania: 0,0015, klucz: 72
+3. Czas wykonania znajdowania: 0,0023, klucz: 71
+644. Czas wykonania znajdowania: 0,0024, klucz: 87
+5. Czas wykonania znajdowania: 0,0018, klucz: 48
+6. Czas wykonania znajdowania: 0,002, klucz: 28
+767. Czas wykonania znajdowania: 0,0019, klucz: 97
+868. Czas wykonania znajdowania: 0,0021, klucz: 6
+919. Czas wykonania znajdowania: 0,001, klucz: 86
+1410. Czas wykonania znajdowania: 0,0009, klucz: 84
+1. Czas wykonania usuwania: 0,0012, klucz: 17
+2. Czas wykonania usuwania: 0,0009, klucz: 96
+3. Czas wykonania usuwania: 0,0009, klucz: 4
+4. Czas wykonania usuwania: 0,0014, klucz: 5
+5. Czas wykonania usuwania: 0,0021, klucz: 84
+6. Czas wykonania usuwania: 0,002, klucz: 78
+7. Czas wykonania usuwania: 0,0021, klucz: 11
+8. Czas wykonania usuwania: 0,002, klucz: 2
+9. Czas wykonania usuwania: 0,0021, klucz: 77
+10. Czas wykonania usuwania: 0,002, klucz: 96
+
+Zestaw danych BST: 7
+1. Czas wykonania dodawania: 0,001, klucz: 23, zawartość 36
+2. Czas wykonania dodawania: 0,0009, klucz: 98, zawartość 5
+3. Czas wykonania dodawania: 0,0023, klucz: 59, zawartość 58
+1. Czas wykonania znajdowania: 0,0018, klucz: 42
+2. Czas wykonania znajdowania: 0,0031, klucz: 77
+3. Czas wykonania znajdowania: 0,0023, klucz: 25
+4. Czas wykonania znajdowania: 0,0021, klucz: 69
+5. Czas wykonania znajdowania: 0,0019, klucz: 44
+6. Czas wykonania znajdowania: 0,0011, klucz: 75
+7. Czas wykonania znajdowania: 0,0022, klucz: 59
+588. Czas wykonania znajdowania: 0,0019, klucz: 81
+9. Czas wykonania znajdowania: 0,0024, klucz: 25
+10. Czas wykonania znajdowania: 0,0018, klucz: 3
+1. Czas wykonania usuwania: 0,0022, klucz: 37
+2. Czas wykonania usuwania: 0,0016, klucz: 34
+3. Czas wykonania usuwania: 0,0018, klucz: 60
+4. Czas wykonania usuwania: 0,0018, klucz: 90
+5. Czas wykonania usuwania: 0,0016, klucz: 40
+6. Czas wykonania usuwania: 0,0018, klucz: 89
+7. Czas wykonania usuwania: 0,0017, klucz: 2
+8. Czas wykonania usuwania: 0,0022, klucz: 75
+9. Czas wykonania usuwania: 0,0023, klucz: 38
+10. Czas wykonania usuwania: 0,002, klucz: 50
+
+Zestaw danych BST: 8
+1. Czas wykonania dodawania: 0,0018, klucz: 32, zawartość 97
+2. Czas wykonania dodawania: 0,0022, klucz: 23, zawartość 43
+3. Czas wykonania dodawania: 0,002, klucz: 64, zawartość 69
+4. Czas wykonania dodawania: 0,0026, klucz: 49, zawartość 78
+5. Czas wykonania dodawania: 0,0019, klucz: 97, zawartość 10
+6. Czas wykonania dodawania: 0,002, klucz: 43, zawartość 40
+7. Czas wykonania dodawania: 0,0024, klucz: 51, zawartość 16
+8. Czas wykonania dodawania: 0,0027, klucz: 59, zawartość 43
+9. Czas wykonania dodawania: 0,0018, klucz: 43, zawartość 67
+10. Czas wykonania dodawania: 0,0013, klucz: 45, zawartość 45
+11. Czas wykonania dodawania: 0,0019, klucz: 28, zawartość 32
+12. Czas wykonania dodawania: 0,001, klucz: 70, zawartość 65
+13. Czas wykonania dodawania: 0,0018, klucz: 14, zawartość 72
+14. Czas wykonania dodawania: 0,0026, klucz: 79, zawartość 27
+15. Czas wykonania dodawania: 0,0022, klucz: 45, zawartość 69
+16. Czas wykonania dodawania: 0,0025, klucz: 27, zawartość 35
+17. Czas wykonania dodawania: 0,002, klucz: 18, zawartość 47
+1. Czas wykonania znajdowania: 0,0019, klucz: 61
+2. Czas wykonania znajdowania: 0,002, klucz: 99
+3. Czas wykonania znajdowania: 0,0015, klucz: 11
+4. Czas wykonania znajdowania: 0,002, klucz: 21
+5. Czas wykonania znajdowania: 0,0018, klucz: 20
+6. Czas wykonania znajdowania: 0,002, klucz: 30
+7. Czas wykonania znajdowania: 0,0015, klucz: 17
+8. Czas wykonania znajdowania: 0,0018, klucz: 17
+9. Czas wykonania znajdowania: 0,0019, klucz: 44
+10. Czas wykonania znajdowania: 0,0008, klucz: 41
+1. Czas wykonania usuwania: 0,0017, klucz: 71
+2. Czas wykonania usuwania: 0,001, klucz: 62
+3. Czas wykonania usuwania: 0,0021, klucz: 74
+4. Czas wykonania usuwania: 0,002, klucz: 27
+5. Czas wykonania usuwania: 0,0024, klucz: 62
+6. Czas wykonania usuwania: 0,0023, klucz: 3
+7. Czas wykonania usuwania: 0,0018, klucz: 85
+8. Czas wykonania usuwania: 0,0023, klucz: 46
+9. Czas wykonania usuwania: 0,0019, klucz: 66
+10. Czas wykonania usuwania: 0,0024, klucz: 65
+
+Zestaw danych BST: 9
+1. Czas wykonania dodawania: 0,0016, klucz: 3, zawartość 6
+2. Czas wykonania dodawania: 0,0024, klucz: 4, zawartość 7
+3. Czas wykonania dodawania: 0,0022, klucz: 5, zawartość 8
+4. Czas wykonania dodawania: 0,002, klucz: 6, zawartość 9
+5. Czas wykonania dodawania: 0,0023, klucz: 7, zawartość 10
+6. Czas wykonania dodawania: 0,0021, klucz: 8, zawartość 11
+7. Czas wykonania dodawania: 0,0022, klucz: 9, zawartość 12
+8. Czas wykonania dodawania: 0,0025, klucz: 10, zawartość 13
+9. Czas wykonania dodawania: 0,0025, klucz: 11, zawartość 14
+10. Czas wykonania dodawania: 0,0024, klucz: 12, zawartość 15
+11. Czas wykonania dodawania: 0,0021, klucz: 13, zawartość 16
+12. Czas wykonania dodawania: 0,0024, klucz: 14, zawartość 17
+13. Czas wykonania dodawania: 0,0024, klucz: 15, zawartość 18
+14. Czas wykonania dodawania: 0,0025, klucz: 16, zawartość 19
+15. Czas wykonania dodawania: 0,0024, klucz: 17, zawartość 20
+16. Czas wykonania dodawania: 0,0026, klucz: 18, zawartość 21
+17. Czas wykonania dodawania: 0,0024, klucz: 19, zawartość 22
+18. Czas wykonania dodawania: 0,0024, klucz: 20, zawartość 23
+19. Czas wykonania dodawania: 0,0025, klucz: 21, zawartość 24
+20. Czas wykonania dodawania: 0,0025, klucz: 22, zawartość 25
+21. Czas wykonania dodawania: 0,0028, klucz: 23, zawartość 26
+22. Czas wykonania dodawania: 0,0022, klucz: 24, zawartość 27
+23. Czas wykonania dodawania: 0,0027, klucz: 25, zawartość 28
+24. Czas wykonania dodawania: 0,0027, klucz: 26, zawartość 29
+25. Czas wykonania dodawania: 0,0028, klucz: 27, zawartość 30
+26. Czas wykonania dodawania: 0,0027, klucz: 28, zawartość 31
+27. Czas wykonania dodawania: 0,0048, klucz: 29, zawartość 32
+28. Czas wykonania dodawania: 0,0031, klucz: 30, zawartość 33
+29. Czas wykonania dodawania: 0,0026, klucz: 31, zawartość 34
+30. Czas wykonania dodawania: 0,0015, klucz: 32, zawartość 35
+31. Czas wykonania dodawania: 0,0029, klucz: 33, zawartość 36
+32. Czas wykonania dodawania: 0,0029, klucz: 34, zawartość 37
+33. Czas wykonania dodawania: 0,003, klucz: 35, zawartość 38
+34. Czas wykonania dodawania: 0,0022, klucz: 36, zawartość 39
+35. Czas wykonania dodawania: 0,0029, klucz: 37, zawartość 40
+36. Czas wykonania dodawania: 0,0026, klucz: 38, zawartość 41
+37. Czas wykonania dodawania: 0,0024, klucz: 39, zawartość 42
+38. Czas wykonania dodawania: 0,0026, klucz: 40, zawartość 43
+39. Czas wykonania dodawania: 0,0028, klucz: 41, zawartość 44
+40. Czas wykonania dodawania: 0,0023, klucz: 42, zawartość 45
+41. Czas wykonania dodawania: 0,0026, klucz: 43, zawartość 46
+42. Czas wykonania dodawania: 0,0029, klucz: 44, zawartość 47
+43. Czas wykonania dodawania: 0,0028, klucz: 45, zawartość 48
+44. Czas wykonania dodawania: 0,0028, klucz: 46, zawartość 49
+45. Czas wykonania dodawania: 0,0028, klucz: 47, zawartość 50
+46. Czas wykonania dodawania: 0,0017, klucz: 48, zawartość 51
+47. Czas wykonania dodawania: 0,0027, klucz: 49, zawartość 52
+48. Czas wykonania dodawania: 0,0029, klucz: 50, zawartość 53
+49. Czas wykonania dodawania: 0,0029, klucz: 51, zawartość 54
+50. Czas wykonania dodawania: 0,003, klucz: 52, zawartość 55
+51. Czas wykonania dodawania: 0,0028, klucz: 53, zawartość 56
+52. Czas wykonania dodawania: 0,0019, klucz: 54, zawartość 57
+53. Czas wykonania dodawania: 0,0027, klucz: 55, zawartość 58
+54. Czas wykonania dodawania: 0,0016, klucz: 56, zawartość 59
+55. Czas wykonania dodawania: 0,0024, klucz: 57, zawartość 60
+56. Czas wykonania dodawania: 0,0018, klucz: 58, zawartość 61
+57. Czas wykonania dodawania: 0,0027, klucz: 59, zawartość 62
+58. Czas wykonania dodawania: 0,0021, klucz: 60, zawartość 63
+59. Czas wykonania dodawania: 0,0013, klucz: 61, zawartość 64
+60. Czas wykonania dodawania: 0,0028, klucz: 62, zawartość 65
+61. Czas wykonania dodawania: 0,0028, klucz: 63, zawartość 66
+62. Czas wykonania dodawania: 0,0025, klucz: 64, zawartość 67
+1. Czas wykonania znajdowania: 0,002, klucz: 88
+2. Czas wykonania znajdowania: 0,001, klucz: 22
+253. Czas wykonania znajdowania: 0,0029, klucz: 95
+4. Czas wykonania znajdowania: 0,0017, klucz: 69
+5. Czas wykonania znajdowania: 0,0015, klucz: 59
+626. Czas wykonania znajdowania: 0,0007, klucz: 2
+7. Czas wykonania znajdowania: 0,0019, klucz: 83
+8. Czas wykonania znajdowania: 0,0015, klucz: 94
+9. Czas wykonania znajdowania: 0,0008, klucz: 14
+1710. Czas wykonania znajdowania: 0,0011, klucz: 27
+301. Czas wykonania usuwania: 0,0018, klucz: 18
+2. Czas wykonania usuwania: 0,0014, klucz: 38
+3. Czas wykonania usuwania: 0,0034, klucz: 83
+4. Czas wykonania usuwania: 0,0022, klucz: 13
+5. Czas wykonania usuwania: 0,0019, klucz: 1
+6. Czas wykonania usuwania: 0,0021, klucz: 11
+7. Czas wykonania usuwania: 0,0022, klucz: 16
+8. Czas wykonania usuwania: 0,0033, klucz: 97
+9. Czas wykonania usuwania: 0,0033, klucz: 80
+10. Czas wykonania usuwania: 0,0028, klucz: 43
+
+Zestaw danych BST: 10
+1. Czas wykonania dodawania: 0,0009, klucz: 71, zawartość 74
+2. Czas wykonania dodawania: 0,0008, klucz: 70, zawartość 73
+3. Czas wykonania dodawania: 0,002, klucz: 69, zawartość 72
+4. Czas wykonania dodawania: 0,0021, klucz: 68, zawartość 71
+5. Czas wykonania dodawania: 0,0021, klucz: 67, zawartość 70
+6. Czas wykonania dodawania: 0,002, klucz: 66, zawartość 69
+7. Czas wykonania dodawania: 0,0021, klucz: 65, zawartość 68
+8. Czas wykonania dodawania: 0,0021, klucz: 64, zawartość 67
+9. Czas wykonania dodawania: 0,0009, klucz: 63, zawartość 66
+10. Czas wykonania dodawania: 0,0009, klucz: 62, zawartość 65
+11. Czas wykonania dodawania: 0,0009, klucz: 61, zawartość 64
+12. Czas wykonania dodawania: 0,0009, klucz: 60, zawartość 63
+13. Czas wykonania dodawania: 0,0008, klucz: 59, zawartość 62
+14. Czas wykonania dodawania: 0,0008, klucz: 58, zawartość 61
+15. Czas wykonania dodawania: 0,0009, klucz: 57, zawartość 60
+16. Czas wykonania dodawania: 0,002, klucz: 56, zawartość 59
+17. Czas wykonania dodawania: 0,0012, klucz: 55, zawartość 58
+18. Czas wykonania dodawania: 0,002, klucz: 54, zawartość 57
+19. Czas wykonania dodawania: 0,0014, klucz: 53, zawartość 56
+20. Czas wykonania dodawania: 0,0025, klucz: 52, zawartość 55
+21. Czas wykonania dodawania: 0,0025, klucz: 51, zawartość 54
+22. Czas wykonania dodawania: 0,0025, klucz: 50, zawartość 53
+23. Czas wykonania dodawania: 0,0017, klucz: 49, zawartość 52
+24. Czas wykonania dodawania: 0,001, klucz: 48, zawartość 51
+25. Czas wykonania dodawania: 0,001, klucz: 47, zawartość 50
+26. Czas wykonania dodawania: 0,001, klucz: 46, zawartość 49
+27. Czas wykonania dodawania: 0,0009, klucz: 45, zawartość 48
+28. Czas wykonania dodawania: 0,0028, klucz: 44, zawartość 47
+29. Czas wykonania dodawania: 0,0011, klucz: 43, zawartość 46
+30. Czas wykonania dodawania: 0,001, klucz: 42, zawartość 45
+31. Czas wykonania dodawania: 0,001, klucz: 41, zawartość 44
+32. Czas wykonania dodawania: 0,0009, klucz: 40, zawartość 43
+33. Czas wykonania dodawania: 0,0091, klucz: 39, zawartość 42
+34. Czas wykonania dodawania: 0,0028, klucz: 38, zawartość 41
+35. Czas wykonania dodawania: 0,0017, klucz: 37, zawartość 40
+36. Czas wykonania dodawania: 0,0023, klucz: 36, zawartość 39
+37. Czas wykonania dodawania: 0,0012, klucz: 35, zawartość 38
+38. Czas wykonania dodawania: 0,0011, klucz: 34, zawartość 37
+39. Czas wykonania dodawania: 0,0011, klucz: 33, zawartość 36
+40. Czas wykonania dodawania: 0,002, klucz: 32, zawartość 35
+41. Czas wykonania dodawania: 0,0015, klucz: 31, zawartość 34
+42. Czas wykonania dodawania: 0,0011, klucz: 30, zawartość 33
+43. Czas wykonania dodawania: 0,0025, klucz: 29, zawartość 32
+44. Czas wykonania dodawania: 0,0013, klucz: 28, zawartość 31
+45. Czas wykonania dodawania: 0,0011, klucz: 27, zawartość 30
+46. Czas wykonania dodawania: 0,0011, klucz: 26, zawartość 29
+47. Czas wykonania dodawania: 0,0011, klucz: 25, zawartość 28
+48. Czas wykonania dodawania: 0,0011, klucz: 24, zawartość 27
+49. Czas wykonania dodawania: 0,0012, klucz: 23, zawartość 26
+50. Czas wykonania dodawania: 0,0011, klucz: 22, zawartość 25
+51. Czas wykonania dodawania: 0,0011, klucz: 21, zawartość 24
+52. Czas wykonania dodawania: 0,0011, klucz: 20, zawartość 23
+53. Czas wykonania dodawania: 0,0011, klucz: 19, zawartość 22
+54. Czas wykonania dodawania: 0,0012, klucz: 18, zawartość 21
+55. Czas wykonania dodawania: 0,0012, klucz: 17, zawartość 20
+56. Czas wykonania dodawania: 0,0012, klucz: 16, zawartość 19
+57. Czas wykonania dodawania: 0,0011, klucz: 15, zawartość 18
+58. Czas wykonania dodawania: 0,0012, klucz: 14, zawartość 17
+59. Czas wykonania dodawania: 0,0021, klucz: 13, zawartość 16
+60. Czas wykonania dodawania: 0,0015, klucz: 12, zawartość 15
+61. Czas wykonania dodawania: 0,0013, klucz: 11, zawartość 14
+62. Czas wykonania dodawania: 0,0014, klucz: 10, zawartość 13
+63. Czas wykonania dodawania: 0,0024, klucz: 9, zawartość 12
+64. Czas wykonania dodawania: 0,0017, klucz: 8, zawartość 11
+65. Czas wykonania dodawania: 0,0014, klucz: 7, zawartość 10
+66. Czas wykonania dodawania: 0,0023, klucz: 6, zawartość 9
+67. Czas wykonania dodawania: 0,0014, klucz: 5, zawartość 8
+68. Czas wykonania dodawania: 0,0014, klucz: 4, zawartość 7
+69. Czas wykonania dodawania: 0,0013, klucz: 3, zawartość 6
+1. Czas wykonania znajdowania: 0,0012, klucz: 50
+532. Czas wykonania znajdowania: 0,0028, klucz: 3
+63. Czas wykonania znajdowania: 0,0014, klucz: 45
+484. Czas wykonania znajdowania: 0,0009, klucz: 97
+5. Czas wykonania znajdowania: 0,0021, klucz: 12
+156. Czas wykonania znajdowania: 0,001, klucz: 71
+747. Czas wykonania znajdowania: 0,0008, klucz: 88
+8. Czas wykonania znajdowania: 0,0015, klucz: 20
+239. Czas wykonania znajdowania: 0,0012, klucz: 60
+6310. Czas wykonania znajdowania: 0,001, klucz: 64
+671. Czas wykonania usuwania: 0,0026, klucz: 1
+2. Czas wykonania usuwania: 0,0008, klucz: 89
+3. Czas wykonania usuwania: 0,0015, klucz: 40
+4. Czas wykonania usuwania: 0,0009, klucz: 63
+5. Czas wykonania usuwania: 0,0017, klucz: 43
+6. Czas wykonania usuwania: 0,0018, klucz: 7
+7. Czas wykonania usuwania: 0,0025, klucz: 48
+8. Czas wykonania usuwania: 0,0019, klucz: 99
+9. Czas wykonania usuwania: 0,0026, klucz: 6
+10. Czas wykonania usuwania: 0,0008, klucz: 62
+
+Zestaw danych AVL: 1
+1. Czas wykonania dodawania: 0,6004, klucz: 3, zawartość 6
+2. Czas wykonania dodawania: 0,2105, klucz: 4, zawartość 7
+3. Czas wykonania dodawania: 0,0025, klucz: 5, zawartość 8
+4. Czas wykonania dodawania: 0,1527, klucz: 6, zawartość 9
+5. Czas wykonania dodawania: 0,0028, klucz: 7, zawartość 10
+6. Czas wykonania dodawania: 0,003, klucz: 8, zawartość 11
+7. Czas wykonania dodawania: 0,0013, klucz: 9, zawartość 12
+8. Czas wykonania dodawania: 0,0014, klucz: 10, zawartość 13
+9. Czas wykonania dodawania: 0,0012, klucz: 11, zawartość 14
+10. Czas wykonania dodawania: 0,0013, klucz: 12, zawartość 15
+11. Czas wykonania dodawania: 0,0012, klucz: 13, zawartość 16
+12. Czas wykonania dodawania: 0,0013, klucz: 14, zawartość 17
+13. Czas wykonania dodawania: 0,0012, klucz: 15, zawartość 18
+14. Czas wykonania dodawania: 0,0013, klucz: 16, zawartość 19
+15. Czas wykonania dodawania: 0,0013, klucz: 17, zawartość 20
+16. Czas wykonania dodawania: 0,0012, klucz: 18, zawartość 21
+17. Czas wykonania dodawania: 0,0012, klucz: 19, zawartość 22
+18. Czas wykonania dodawania: 0,0014, klucz: 20, zawartość 23
+19. Czas wykonania dodawania: 0,0014, klucz: 21, zawartość 24
+20. Czas wykonania dodawania: 0,0014, klucz: 22, zawartość 25
+21. Czas wykonania dodawania: 0,0014, klucz: 23, zawartość 26
+22. Czas wykonania dodawania: 0,004, klucz: 24, zawartość 27
+23. Czas wykonania dodawania: 0,0035, klucz: 25, zawartość 28
+24. Czas wykonania dodawania: 0,0035, klucz: 26, zawartość 29
+25. Czas wykonania dodawania: 0,0032, klucz: 27, zawartość 30
+26. Czas wykonania dodawania: 0,0027, klucz: 28, zawartość 31
+27. Czas wykonania dodawania: 0,0035, klucz: 29, zawartość 32
+28. Czas wykonania dodawania: 0,0027, klucz: 30, zawartość 33
+29. Czas wykonania dodawania: 0,0014, klucz: 31, zawartość 34
+30. Czas wykonania dodawania: 0,0015, klucz: 32, zawartość 35
+31. Czas wykonania dodawania: 0,0015, klucz: 33, zawartość 36
+32. Czas wykonania dodawania: 0,0013, klucz: 34, zawartość 37
+33. Czas wykonania dodawania: 0,0013, klucz: 35, zawartość 38
+34. Czas wykonania dodawania: 0,0015, klucz: 36, zawartość 39
+35. Czas wykonania dodawania: 0,0013, klucz: 37, zawartość 40
+36. Czas wykonania dodawania: 0,003, klucz: 38, zawartość 41
+37. Czas wykonania dodawania: 0,0029, klucz: 39, zawartość 42
+38. Czas wykonania dodawania: 0,0027, klucz: 40, zawartość 43
+39. Czas wykonania dodawania: 0,0016, klucz: 41, zawartość 44
+40. Czas wykonania dodawania: 0,0031, klucz: 42, zawartość 45
+41. Czas wykonania dodawania: 0,003, klucz: 43, zawartość 46
+42. Czas wykonania dodawania: 0,0029, klucz: 44, zawartość 47
+43. Czas wykonania dodawania: 0,003, klucz: 45, zawartość 48
+44. Czas wykonania dodawania: 0,0024, klucz: 46, zawartość 49
+45. Czas wykonania dodawania: 0,0015, klucz: 47, zawartość 50
+46. Czas wykonania dodawania: 0,0015, klucz: 48, zawartość 51
+47. Czas wykonania dodawania: 0,0032, klucz: 49, zawartość 52
+48. Czas wykonania dodawania: 0,0032, klucz: 50, zawartość 53
+49. Czas wykonania dodawania: 0,002, klucz: 51, zawartość 54
+50. Czas wykonania dodawania: 0,0016, klucz: 52, zawartość 55
+51. Czas wykonania dodawania: 0,0035, klucz: 53, zawartość 56
+52. Czas wykonania dodawania: 0,0028, klucz: 54, zawartość 57
+53. Czas wykonania dodawania: 0,0039, klucz: 55, zawartość 58
+54. Czas wykonania dodawania: 0,0039, klucz: 56, zawartość 59
+55. Czas wykonania dodawania: 0,0025, klucz: 57, zawartość 60
+56. Czas wykonania dodawania: 0,0028, klucz: 58, zawartość 61
+57. Czas wykonania dodawania: 0,0016, klucz: 59, zawartość 62
+58. Czas wykonania dodawania: 0,0034, klucz: 60, zawartość 63
+59. Czas wykonania dodawania: 0,002, klucz: 61, zawartość 64
+60. Czas wykonania dodawania: 0,0028, klucz: 62, zawartość 65
+61. Czas wykonania dodawania: 0,0032, klucz: 63, zawartość 66
+62. Czas wykonania dodawania: 0,0033, klucz: 64, zawartość 67
+63. Czas wykonania dodawania: 0,0027, klucz: 65, zawartość 68
+64. Czas wykonania dodawania: 0,0028, klucz: 66, zawartość 69
+1. Czas wykonania znajdowania: 0,175, klucz: 37
+402. Czas wykonania znajdowania: 0,0016, klucz: 38
+413. Czas wykonania znajdowania: 0,0009, klucz: 41
+444. Czas wykonania znajdowania: 0,0025, klucz: 60
+635. Czas wykonania znajdowania: 0,0021, klucz: 75
+6. Czas wykonania znajdowania: 0,0021, klucz: 1
+7. Czas wykonania znajdowania: 0,0022, klucz: 95
+8. Czas wykonania znajdowania: 0,0013, klucz: 97
+9. Czas wykonania znajdowania: 0,0017, klucz: 26
+2910. Czas wykonania znajdowania: 0,0022, klucz: 60
+631. Czas wykonania usuwania: 0,6605, klucz: 14
+2. Czas wykonania usuwania: 0,0018, klucz: 15
+3. Czas wykonania usuwania: 0,0031, klucz: 55
+4. Czas wykonania usuwania: 0,0021, klucz: 97
+5. Czas wykonania usuwania: 0,0016, klucz: 2
+6. Czas wykonania usuwania: 0,0029, klucz: 63
+7. Czas wykonania usuwania: 0,1989, klucz: 17
+8. Czas wykonania usuwania: 0,0027, klucz: 86
+9. Czas wykonania usuwania: 0,0018, klucz: 20
+10. Czas wykonania usuwania: 0,0032, klucz: 94
+
+Zestaw danych AVL: 2
+1. Czas wykonania dodawania: 0,0022, klucz: 72, zawartość 23
+2. Czas wykonania dodawania: 0,0011, klucz: 57, zawartość 59
+3. Czas wykonania dodawania: 0,0028, klucz: 18, zawartość 90
+4. Czas wykonania dodawania: 0,0027, klucz: 14, zawartość 74
+5. Czas wykonania dodawania: 0,0012, klucz: 51, zawartość 3
+6. Czas wykonania dodawania: 0,0012, klucz: 48, zawartość 87
+7. Czas wykonania dodawania: 0,0018, klucz: 50, zawartość 12
+8. Czas wykonania dodawania: 0,0025, klucz: 33, zawartość 55
+9. Czas wykonania dodawania: 0,0028, klucz: 1, zawartość 70
+10. Czas wykonania dodawania: 0,0029, klucz: 62, zawartość 75
+11. Czas wykonania dodawania: 0,0021, klucz: 25, zawartość 58
+12. Czas wykonania dodawania: 0,0026, klucz: 76, zawartość 58
+13. Czas wykonania dodawania: 0,0026, klucz: 79, zawartość 18
+14. Czas wykonania dodawania: 0,0028, klucz: 71, zawartość 71
+1. Czas wykonania znajdowania: 0,0019, klucz: 38
+2. Czas wykonania znajdowania: 0,0007, klucz: 37
+3. Czas wykonania znajdowania: 0,0008, klucz: 59
+4. Czas wykonania znajdowania: 0,0007, klucz: 37
+5. Czas wykonania znajdowania: 0,0019, klucz: 90
+6. Czas wykonania znajdowania: 0,0019, klucz: 73
+7. Czas wykonania znajdowania: 0,0026, klucz: 66
+8. Czas wykonania znajdowania: 0,0023, klucz: 26
+9. Czas wykonania znajdowania: 0,0015, klucz: 18
+9010. Czas wykonania znajdowania: 0,0014, klucz: 52
+1. Czas wykonania usuwania: 0,0027, klucz: 21
+2. Czas wykonania usuwania: 0,0024, klucz: 39
+3. Czas wykonania usuwania: 0,0013, klucz: 34
+4. Czas wykonania usuwania: 0,0013, klucz: 58
+5. Czas wykonania usuwania: 0,0015, klucz: 89
+6. Czas wykonania usuwania: 0,0026, klucz: 36
+7. Czas wykonania usuwania: 0,0015, klucz: 87
+8. Czas wykonania usuwania: 0,0026, klucz: 77
+9. Czas wykonania usuwania: 0,0026, klucz: 84
+10. Czas wykonania usuwania: 0,0028, klucz: 70
+
+Zestaw danych AVL: 3
+1. Czas wykonania dodawania: 0,002, klucz: 30, zawartość 29
+2. Czas wykonania dodawania: 0,0023, klucz: 25, zawartość 79
+3. Czas wykonania dodawania: 0,0024, klucz: 34, zawartość 87
+4. Czas wykonania dodawania: 0,0026, klucz: 99, zawartość 10
+5. Czas wykonania dodawania: 0,0023, klucz: 34, zawartość 28
+6. Czas wykonania dodawania: 0,0029, klucz: 87, zawartość 40
+7. Czas wykonania dodawania: 0,0026, klucz: 45, zawartość 43
+8. Czas wykonania dodawania: 0,0027, klucz: 93, zawartość 53
+9. Czas wykonania dodawania: 0,0028, klucz: 83, zawartość 77
+10. Czas wykonania dodawania: 0,0009, klucz: 34, zawartość 8
+11. Czas wykonania dodawania: 0,0026, klucz: 40, zawartość 64
+12. Czas wykonania dodawania: 0,0012, klucz: 15, zawartość 10
+13. Czas wykonania dodawania: 0,0012, klucz: 89, zawartość 21
+14. Czas wykonania dodawania: 0,0024, klucz: 4, zawartość 33
+15. Czas wykonania dodawania: 0,0013, klucz: 80, zawartość 69
+16. Czas wykonania dodawania: 0,001, klucz: 25, zawartość 5
+17. Czas wykonania dodawania: 0,0017, klucz: 69, zawartość 62
+18. Czas wykonania dodawania: 0,0012, klucz: 22, zawartość 82
+19. Czas wykonania dodawania: 0,0014, klucz: 55, zawartość 27
+20. Czas wykonania dodawania: 0,0011, klucz: 76, zawartość 18
+21. Czas wykonania dodawania: 0,0012, klucz: 42, zawartość 51
+22. Czas wykonania dodawania: 0,0012, klucz: 72, zawartość 99
+23. Czas wykonania dodawania: 0,0014, klucz: 70, zawartość 65
+24. Czas wykonania dodawania: 0,0015, klucz: 64, zawartość 75
+25. Czas wykonania dodawania: 0,0011, klucz: 55, zawartość 74
+26. Czas wykonania dodawania: 0,0013, klucz: 94, zawartość 89
+27. Czas wykonania dodawania: 0,0013, klucz: 84, zawartość 75
+28. Czas wykonania dodawania: 0,0009, klucz: 34, zawartość 34
+29. Czas wykonania dodawania: 0,0012, klucz: 52, zawartość 21
+30. Czas wykonania dodawania: 0,0021, klucz: 8, zawartość 5
+31. Czas wykonania dodawania: 0,0016, klucz: 19, zawartość 80
+32. Czas wykonania dodawania: 0,0011, klucz: 30, zawartość 96
+33. Czas wykonania dodawania: 0,0016, klucz: 16, zawartość 30
+34. Czas wykonania dodawania: 0,0013, klucz: 89, zawartość 33
+35. Czas wykonania dodawania: 0,0013, klucz: 16, zawartość 75
+36. Czas wykonania dodawania: 0,0015, klucz: 43, zawartość 35
+37. Czas wykonania dodawania: 0,0026, klucz: 71, zawartość 70
+38. Czas wykonania dodawania: 0,0014, klucz: 9, zawartość 73
+39. Czas wykonania dodawania: 0,0014, klucz: 77, zawartość 25
+40. Czas wykonania dodawania: 0,0014, klucz: 53, zawartość 75
+41. Czas wykonania dodawania: 0,0011, klucz: 83, zawartość 87
+42. Czas wykonania dodawania: 0,0011, klucz: 75, zawartość 40
+43. Czas wykonania dodawania: 0,0012, klucz: 19, zawartość 82
+44. Czas wykonania dodawania: 0,0011, klucz: 21, zawartość 74
+45. Czas wykonania dodawania: 0,0013, klucz: 59, zawartość 64
+46. Czas wykonania dodawania: 0,0011, klucz: 2, zawartość 72
+47. Czas wykonania dodawania: 0,0012, klucz: 68, zawartość 13
+48. Czas wykonania dodawania: 0,0012, klucz: 92, zawartość 92
+49. Czas wykonania dodawania: 0,0013, klucz: 37, zawartość 73
+50. Czas wykonania dodawania: 0,0011, klucz: 76, zawartość 92
+51. Czas wykonania dodawania: 0,0013, klucz: 5, zawartość 43
+52. Czas wykonania dodawania: 0,0026, klucz: 87, zawartość 3
+53. Czas wykonania dodawania: 0,0011, klucz: 34, zawartość 44
+54. Czas wykonania dodawania: 0,0016, klucz: 58, zawartość 11
+55. Czas wykonania dodawania: 0,0012, klucz: 51, zawartość 98
+56. Czas wykonania dodawania: 0,0012, klucz: 84, zawartość 31
+57. Czas wykonania dodawania: 0,0013, klucz: 35, zawartość 46
+58. Czas wykonania dodawania: 0,0013, klucz: 46, zawartość 81
+59. Czas wykonania dodawania: 0,0015, klucz: 71, zawartość 51
+60. Czas wykonania dodawania: 0,0012, klucz: 53, zawartość 67
+61. Czas wykonania dodawania: 0,0014, klucz: 88, zawartość 56
+62. Czas wykonania dodawania: 0,0011, klucz: 68, zawartość 49
+63. Czas wykonania dodawania: 0,001, klucz: 30, zawartość 32
+64. Czas wykonania dodawania: 0,0016, klucz: 50, zawartość 40
+65. Czas wykonania dodawania: 0,0011, klucz: 32, zawartość 35
+66. Czas wykonania dodawania: 0,0028, klucz: 89, zawartość 68
+67. Czas wykonania dodawania: 0,0014, klucz: 75, zawartość 87
+68. Czas wykonania dodawania: 0,0014, klucz: 5, zawartość 76
+69. Czas wykonania dodawania: 0,0011, klucz: 16, zawartość 47
+70. Czas wykonania dodawania: 0,0012, klucz: 4, zawartość 35
+71. Czas wykonania dodawania: 0,0013, klucz: 84, zawartość 92
+72. Czas wykonania dodawania: 0,0012, klucz: 23, zawartość 31
+1. Czas wykonania znajdowania: 0,001, klucz: 44
+2. Czas wykonania znajdowania: 0,0007, klucz: 70
+653. Czas wykonania znajdowania: 0,002, klucz: 24
+4. Czas wykonania znajdowania: 0,0018, klucz: 26
+5. Czas wykonania znajdowania: 0,001, klucz: 10
+6. Czas wykonania znajdowania: 0,0021, klucz: 10
+7. Czas wykonania znajdowania: 0,002, klucz: 13
+8. Czas wykonania znajdowania: 0,0027, klucz: 35
+469. Czas wykonania znajdowania: 0,0023, klucz: 77
+2510. Czas wykonania znajdowania: 0,002, klucz: 24
+1. Czas wykonania usuwania: 0,0032, klucz: 52
+2. Czas wykonania usuwania: 0,003, klucz: 95
+3. Czas wykonania usuwania: 0,0029, klucz: 2
+4. Czas wykonania usuwania: 0,0028, klucz: 28
+5. Czas wykonania usuwania: 0,0029, klucz: 28
+6. Czas wykonania usuwania: 0,002, klucz: 80
+7. Czas wykonania usuwania: 0,003, klucz: 34
+8. Czas wykonania usuwania: 0,0033, klucz: 22
+9. Czas wykonania usuwania: 0,0026, klucz: 53
+10. Czas wykonania usuwania: 0,0032, klucz: 13
+
+Zestaw danych AVL: 4
+1. Czas wykonania dodawania: 0,0019, klucz: 18, zawartość 2
+2. Czas wykonania dodawania: 0,0025, klucz: 47, zawartość 12
+3. Czas wykonania dodawania: 0,0027, klucz: 43, zawartość 18
+4. Czas wykonania dodawania: 0,0028, klucz: 42, zawartość 19
+5. Czas wykonania dodawania: 0,0023, klucz: 63, zawartość 32
+6. Czas wykonania dodawania: 0,003, klucz: 3, zawartość 8
+7. Czas wykonania dodawania: 0,0027, klucz: 54, zawartość 46
+8. Czas wykonania dodawania: 0,0023, klucz: 32, zawartość 36
+9. Czas wykonania dodawania: 0,0027, klucz: 14, zawartość 68
+10. Czas wykonania dodawania: 0,0026, klucz: 45, zawartość 37
+11. Czas wykonania dodawania: 0,0027, klucz: 73, zawartość 44
+12. Czas wykonania dodawania: 0,0026, klucz: 29, zawartość 56
+13. Czas wykonania dodawania: 0,0028, klucz: 14, zawartość 14
+14. Czas wykonania dodawania: 0,0028, klucz: 85, zawartość 45
+15. Czas wykonania dodawania: 0,0031, klucz: 38, zawartość 30
+16. Czas wykonania dodawania: 0,0017, klucz: 66, zawartość 39
+17. Czas wykonania dodawania: 0,0014, klucz: 26, zawartość 88
+18. Czas wykonania dodawania: 0,0032, klucz: 22, zawartość 10
+19. Czas wykonania dodawania: 0,004, klucz: 44, zawartość 15
+20. Czas wykonania dodawania: 0,0031, klucz: 80, zawartość 90
+21. Czas wykonania dodawania: 0,0036, klucz: 5, zawartość 39
+22. Czas wykonania dodawania: 0,0032, klucz: 57, zawartość 86
+23. Czas wykonania dodawania: 0,003, klucz: 93, zawartość 65
+24. Czas wykonania dodawania: 0,0058, klucz: 24, zawartość 87
+25. Czas wykonania dodawania: 0,003, klucz: 3, zawartość 58
+26. Czas wykonania dodawania: 0,0035, klucz: 72, zawartość 60
+27. Czas wykonania dodawania: 0,004, klucz: 9, zawartość 21
+28. Czas wykonania dodawania: 0,0031, klucz: 89, zawartość 33
+29. Czas wykonania dodawania: 0,0033, klucz: 16, zawartość 47
+30. Czas wykonania dodawania: 0,0032, klucz: 45, zawartość 50
+31. Czas wykonania dodawania: 0,0031, klucz: 21, zawartość 25
+32. Czas wykonania dodawania: 0,0038, klucz: 88, zawartość 32
+33. Czas wykonania dodawania: 0,0035, klucz: 89, zawartość 59
+34. Czas wykonania dodawania: 0,0153, klucz: 99, zawartość 14
+35. Czas wykonania dodawania: 0,0034, klucz: 99, zawartość 82
+36. Czas wykonania dodawania: 0,0027, klucz: 30, zawartość 19
+37. Czas wykonania dodawania: 0,0035, klucz: 16, zawartość 9
+38. Czas wykonania dodawania: 0,0034, klucz: 97, zawartość 89
+39. Czas wykonania dodawania: 0,0031, klucz: 82, zawartość 88
+40. Czas wykonania dodawania: 0,003, klucz: 28, zawartość 57
+41. Czas wykonania dodawania: 0,0031, klucz: 41, zawartość 50
+42. Czas wykonania dodawania: 0,0024, klucz: 37, zawartość 52
+43. Czas wykonania dodawania: 0,0015, klucz: 8, zawartość 97
+1. Czas wykonania znajdowania: 0,002, klucz: 88
+322. Czas wykonania znajdowania: 0,0022, klucz: 83
+3. Czas wykonania znajdowania: 0,0021, klucz: 84
+4. Czas wykonania znajdowania: 0,0024, klucz: 11
+5. Czas wykonania znajdowania: 0,0026, klucz: 38
+306. Czas wykonania znajdowania: 0,001, klucz: 56
+7. Czas wykonania znajdowania: 0,0022, klucz: 67
+8. Czas wykonania znajdowania: 0,002, klucz: 57
+869. Czas wykonania znajdowania: 0,0019, klucz: 28
+5710. Czas wykonania znajdowania: 0,0024, klucz: 52
+1. Czas wykonania usuwania: 0,0035, klucz: 44
+2. Czas wykonania usuwania: 0,0034, klucz: 96
+3. Czas wykonania usuwania: 0,0028, klucz: 69
+4. Czas wykonania usuwania: 0,003, klucz: 87
+5. Czas wykonania usuwania: 0,003, klucz: 73
+6. Czas wykonania usuwania: 0,0028, klucz: 16
+7. Czas wykonania usuwania: 0,0034, klucz: 57
+8. Czas wykonania usuwania: 0,0033, klucz: 50
+9. Czas wykonania usuwania: 0,0034, klucz: 21
+10. Czas wykonania usuwania: 0,0028, klucz: 63
+
+Zestaw danych AVL: 5
+1. Czas wykonania dodawania: 0,0023, klucz: 91, zawartość 17
+2. Czas wykonania dodawania: 0,0024, klucz: 33, zawartość 42
+3. Czas wykonania dodawania: 0,0037, klucz: 61, zawartość 38
+4. Czas wykonania dodawania: 0,0031, klucz: 15, zawartość 7
+5. Czas wykonania dodawania: 0,0024, klucz: 33, zawartość 53
+6. Czas wykonania dodawania: 0,003, klucz: 57, zawartość 42
+7. Czas wykonania dodawania: 0,0026, klucz: 67, zawartość 32
+8. Czas wykonania dodawania: 0,0024, klucz: 99, zawartość 75
+9. Czas wykonania dodawania: 0,0027, klucz: 92, zawartość 87
+10. Czas wykonania dodawania: 0,0027, klucz: 61, zawartość 11
+11. Czas wykonania dodawania: 0,0033, klucz: 44, zawartość 2
+12. Czas wykonania dodawania: 0,003, klucz: 89, zawartość 29
+13. Czas wykonania dodawania: 0,0028, klucz: 7, zawartość 64
+14. Czas wykonania dodawania: 0,0022, klucz: 1, zawartość 76
+15. Czas wykonania dodawania: 0,0029, klucz: 94, zawartość 96
+16. Czas wykonania dodawania: 0,0028, klucz: 55, zawartość 42
+17. Czas wykonania dodawania: 0,0033, klucz: 50, zawartość 52
+18. Czas wykonania dodawania: 0,0029, klucz: 50, zawartość 44
+19. Czas wykonania dodawania: 0,0023, klucz: 65, zawartość 41
+20. Czas wykonania dodawania: 0,0023, klucz: 60, zawartość 70
+21. Czas wykonania dodawania: 0,0026, klucz: 61, zawartość 88
+22. Czas wykonania dodawania: 0,0023, klucz: 74, zawartość 7
+23. Czas wykonania dodawania: 0,0027, klucz: 47, zawartość 76
+1. Czas wykonania znajdowania: 0,0017, klucz: 50
+442. Czas wykonania znajdowania: 0,0019, klucz: 40
+3. Czas wykonania znajdowania: 0,0019, klucz: 56
+4. Czas wykonania znajdowania: 0,0024, klucz: 60
+705. Czas wykonania znajdowania: 0,0019, klucz: 28
+6. Czas wykonania znajdowania: 0,0022, klucz: 5
+7. Czas wykonania znajdowania: 0,0025, klucz: 82
+8. Czas wykonania znajdowania: 0,0019, klucz: 1
+769. Czas wykonania znajdowania: 0,0019, klucz: 31
+10. Czas wykonania znajdowania: 0,0025, klucz: 81
+1. Czas wykonania usuwania: 0,003, klucz: 58
+2. Czas wykonania usuwania: 0,0034, klucz: 91
+3. Czas wykonania usuwania: 0,0041, klucz: 68
+4. Czas wykonania usuwania: 0,0026, klucz: 96
+5. Czas wykonania usuwania: 0,0015, klucz: 84
+6. Czas wykonania usuwania: 0,0025, klucz: 65
+7. Czas wykonania usuwania: 0,0034, klucz: 73
+8. Czas wykonania usuwania: 0,0036, klucz: 33
+9. Czas wykonania usuwania: 0,0032, klucz: 18
+10. Czas wykonania usuwania: 0,0025, klucz: 93
+
+Zestaw danych AVL: 6
+1. Czas wykonania dodawania: 0,0027, klucz: 60, zawartość 85
+2. Czas wykonania dodawania: 0,0024, klucz: 40, zawartość 72
+3. Czas wykonania dodawania: 0,0019, klucz: 28, zawartość 5
+4. Czas wykonania dodawania: 0,0024, klucz: 76, zawartość 11
+5. Czas wykonania dodawania: 0,0026, klucz: 22, zawartość 90
+6. Czas wykonania dodawania: 0,0025, klucz: 4, zawartość 23
+7. Czas wykonania dodawania: 0,0026, klucz: 99, zawartość 31
+8. Czas wykonania dodawania: 0,0029, klucz: 20, zawartość 83
+9. Czas wykonania dodawania: 0,0028, klucz: 38, zawartość 34
+10. Czas wykonania dodawania: 0,0026, klucz: 25, zawartość 93
+11. Czas wykonania dodawania: 0,0028, klucz: 35, zawartość 45
+12. Czas wykonania dodawania: 0,0026, klucz: 50, zawartość 49
+13. Czas wykonania dodawania: 0,003, klucz: 88, zawartość 68
+14. Czas wykonania dodawania: 0,0028, klucz: 80, zawartość 71
+15. Czas wykonania dodawania: 0,0026, klucz: 65, zawartość 11
+16. Czas wykonania dodawania: 0,0015, klucz: 70, zawartość 84
+17. Czas wykonania dodawania: 0,0031, klucz: 84, zawartość 6
+18. Czas wykonania dodawania: 0,0027, klucz: 21, zawartość 53
+19. Czas wykonania dodawania: 0,0037, klucz: 75, zawartość 89
+20. Czas wykonania dodawania: 0,0028, klucz: 45, zawartość 2
+21. Czas wykonania dodawania: 0,0034, klucz: 30, zawartość 85
+22. Czas wykonania dodawania: 0,0016, klucz: 56, zawartość 46
+23. Czas wykonania dodawania: 0,0031, klucz: 45, zawartość 44
+24. Czas wykonania dodawania: 0,0038, klucz: 60, zawartość 5
+25. Czas wykonania dodawania: 0,0034, klucz: 63, zawartość 71
+26. Czas wykonania dodawania: 0,0032, klucz: 26, zawartość 78
+27. Czas wykonania dodawania: 0,003, klucz: 50, zawartość 72
+28. Czas wykonania dodawania: 0,0025, klucz: 67, zawartość 69
+29. Czas wykonania dodawania: 0,003, klucz: 95, zawartość 41
+30. Czas wykonania dodawania: 0,0034, klucz: 84, zawartość 21
+31. Czas wykonania dodawania: 0,0021, klucz: 16, zawartość 97
+32. Czas wykonania dodawania: 0,0022, klucz: 44, zawartość 70
+33. Czas wykonania dodawania: 0,0028, klucz: 45, zawartość 63
+34. Czas wykonania dodawania: 0,0023, klucz: 65, zawartość 60
+35. Czas wykonania dodawania: 0,0025, klucz: 98, zawartość 23
+36. Czas wykonania dodawania: 0,0031, klucz: 95, zawartość 60
+37. Czas wykonania dodawania: 0,0024, klucz: 24, zawartość 70
+38. Czas wykonania dodawania: 0,0033, klucz: 52, zawartość 52
+39. Czas wykonania dodawania: 0,0026, klucz: 55, zawartość 48
+40. Czas wykonania dodawania: 0,0027, klucz: 5, zawartość 17
+41. Czas wykonania dodawania: 0,0019, klucz: 96, zawartość 1
+42. Czas wykonania dodawania: 0,0013, klucz: 1, zawartość 77
+43. Czas wykonania dodawania: 0,002, klucz: 7, zawartość 95
+44. Czas wykonania dodawania: 0,0032, klucz: 18, zawartość 83
+45. Czas wykonania dodawania: 0,0021, klucz: 90, zawartość 20
+46. Czas wykonania dodawania: 0,0031, klucz: 9, zawartość 54
+47. Czas wykonania dodawania: 0,0035, klucz: 54, zawartość 54
+48. Czas wykonania dodawania: 0,0028, klucz: 30, zawartość 84
+49. Czas wykonania dodawania: 0,0031, klucz: 52, zawartość 72
+50. Czas wykonania dodawania: 0,0024, klucz: 48, zawartość 95
+51. Czas wykonania dodawania: 0,0035, klucz: 18, zawartość 85
+52. Czas wykonania dodawania: 0,0031, klucz: 19, zawartość 89
+53. Czas wykonania dodawania: 0,0036, klucz: 89, zawartość 87
+54. Czas wykonania dodawania: 0,0025, klucz: 50, zawartość 89
+55. Czas wykonania dodawania: 0,0028, klucz: 88, zawartość 27
+56. Czas wykonania dodawania: 0,0032, klucz: 27, zawartość 63
+57. Czas wykonania dodawania: 0,003, klucz: 49, zawartość 16
+58. Czas wykonania dodawania: 0,0027, klucz: 87, zawartość 58
+59. Czas wykonania dodawania: 0,0029, klucz: 34, zawartość 99
+60. Czas wykonania dodawania: 0,0026, klucz: 42, zawartość 33
+61. Czas wykonania dodawania: 0,0013, klucz: 7, zawartość 3
+62. Czas wykonania dodawania: 0,0023, klucz: 63, zawartość 54
+63. Czas wykonania dodawania: 0,003, klucz: 89, zawartość 79
+64. Czas wykonania dodawania: 0,0029, klucz: 51, zawartość 50
+65. Czas wykonania dodawania: 0,0032, klucz: 64, zawartość 40
+66. Czas wykonania dodawania: 0,0031, klucz: 9, zawartość 88
+67. Czas wykonania dodawania: 0,0029, klucz: 87, zawartość 49
+68. Czas wykonania dodawania: 0,0035, klucz: 34, zawartość 55
+69. Czas wykonania dodawania: 0,003, klucz: 34, zawartość 39
+70. Czas wykonania dodawania: 0,0027, klucz: 60, zawartość 53
+71. Czas wykonania dodawania: 0,0029, klucz: 65, zawartość 96
+72. Czas wykonania dodawania: 0,003, klucz: 73, zawartość 3
+73. Czas wykonania dodawania: 0,0026, klucz: 33, zawartość 1
+74. Czas wykonania dodawania: 0,0045, klucz: 33, zawartość 58
+75. Czas wykonania dodawania: 0,0027, klucz: 26, zawartość 89
+76. Czas wykonania dodawania: 0,0029, klucz: 87, zawartość 39
+77. Czas wykonania dodawania: 0,0034, klucz: 14, zawartość 33
+78. Czas wykonania dodawania: 0,0032, klucz: 17, zawartość 37
+79. Czas wykonania dodawania: 0,0032, klucz: 62, zawartość 16
+80. Czas wykonania dodawania: 0,0024, klucz: 70, zawartość 89
+81. Czas wykonania dodawania: 0,0034, klucz: 9, zawartość 60
+82. Czas wykonania dodawania: 0,0025, klucz: 26, zawartość 97
+83. Czas wykonania dodawania: 0,0025, klucz: 51, zawartość 80
+1. Czas wykonania znajdowania: 0,0018, klucz: 47
+2. Czas wykonania znajdowania: 0,0026, klucz: 74
+3. Czas wykonania znajdowania: 0,0025, klucz: 57
+4. Czas wykonania znajdowania: 0,0021, klucz: 83
+5. Czas wykonania znajdowania: 0,0022, klucz: 19
+896. Czas wykonania znajdowania: 0,0017, klucz: 79
+7. Czas wykonania znajdowania: 0,0023, klucz: 43
+8. Czas wykonania znajdowania: 0,0012, klucz: 36
+9. Czas wykonania znajdowania: 0,0016, klucz: 82
+10. Czas wykonania znajdowania: 0,0021, klucz: 47
+1. Czas wykonania usuwania: 0,0039, klucz: 32
+2. Czas wykonania usuwania: 0,0026, klucz: 8
+3. Czas wykonania usuwania: 0,0031, klucz: 35
+4. Czas wykonania usuwania: 0,003, klucz: 57
+5. Czas wykonania usuwania: 0,0031, klucz: 60
+6. Czas wykonania usuwania: 0,0037, klucz: 93
+7. Czas wykonania usuwania: 0,0033, klucz: 28
+8. Czas wykonania usuwania: 0,0029, klucz: 83
+9. Czas wykonania usuwania: 0,0029, klucz: 78
+10. Czas wykonania usuwania: 0,0031, klucz: 30
+
+Zestaw danych AVL: 7
+1. Czas wykonania dodawania: 0,0027, klucz: 14, zawartość 43
+2. Czas wykonania dodawania: 0,002, klucz: 45, zawartość 75
+3. Czas wykonania dodawania: 0,003, klucz: 40, zawartość 18
+4. Czas wykonania dodawania: 0,0024, klucz: 70, zawartość 22
+5. Czas wykonania dodawania: 0,0036, klucz: 24, zawartość 45
+6. Czas wykonania dodawania: 0,0027, klucz: 10, zawartość 81
+7. Czas wykonania dodawania: 0,0023, klucz: 28, zawartość 95
+8. Czas wykonania dodawania: 0,0023, klucz: 3, zawartość 84
+9. Czas wykonania dodawania: 0,0013, klucz: 79, zawartość 32
+10. Czas wykonania dodawania: 0,0009, klucz: 14, zawartość 85
+11. Czas wykonania dodawania: 0,0013, klucz: 8, zawartość 23
+12. Czas wykonania dodawania: 0,0022, klucz: 32, zawartość 2
+13. Czas wykonania dodawania: 0,0013, klucz: 65, zawartość 37
+14. Czas wykonania dodawania: 0,0032, klucz: 22, zawartość 13
+15. Czas wykonania dodawania: 0,0038, klucz: 51, zawartość 47
+16. Czas wykonania dodawania: 0,0035, klucz: 35, zawartość 30
+17. Czas wykonania dodawania: 0,0029, klucz: 58, zawartość 14
+1. Czas wykonania znajdowania: 0,002, klucz: 5
+2. Czas wykonania znajdowania: 0,002, klucz: 32
+23. Czas wykonania znajdowania: 0,0014, klucz: 13
+4. Czas wykonania znajdowania: 0,0019, klucz: 48
+5. Czas wykonania znajdowania: 0,0023, klucz: 70
+226. Czas wykonania znajdowania: 0,002, klucz: 88
+7. Czas wykonania znajdowania: 0,0024, klucz: 41
+8. Czas wykonania znajdowania: 0,0022, klucz: 97
+9. Czas wykonania znajdowania: 0,0019, klucz: 32
+210. Czas wykonania znajdowania: 0,002, klucz: 69
+1. Czas wykonania usuwania: 0,0031, klucz: 21
+2. Czas wykonania usuwania: 0,0014, klucz: 75
+3. Czas wykonania usuwania: 0,0035, klucz: 37
+4. Czas wykonania usuwania: 0,0035, klucz: 23
+5. Czas wykonania usuwania: 0,002, klucz: 51
+6. Czas wykonania usuwania: 0,003, klucz: 54
+7. Czas wykonania usuwania: 0,0027, klucz: 56
+8. Czas wykonania usuwania: 0,0027, klucz: 29
+9. Czas wykonania usuwania: 0,0034, klucz: 26
+10. Czas wykonania usuwania: 0,0029, klucz: 18
+
+Zestaw danych AVL: 8
+1. Czas wykonania dodawania: 0,0023, klucz: 15, zawartość 16
+2. Czas wykonania dodawania: 0,0028, klucz: 33, zawartość 58
+3. Czas wykonania dodawania: 0,003, klucz: 62, zawartość 32
+4. Czas wykonania dodawania: 0,0027, klucz: 39, zawartość 40
+5. Czas wykonania dodawania: 0,0024, klucz: 45, zawartość 74
+6. Czas wykonania dodawania: 0,003, klucz: 82, zawartość 58
+7. Czas wykonania dodawania: 0,0024, klucz: 95, zawartość 91
+8. Czas wykonania dodawania: 0,0029, klucz: 42, zawartość 77
+9. Czas wykonania dodawania: 0,0026, klucz: 91, zawartość 45
+10. Czas wykonania dodawania: 0,0026, klucz: 56, zawartość 60
+11. Czas wykonania dodawania: 0,0034, klucz: 11, zawartość 75
+12. Czas wykonania dodawania: 0,0032, klucz: 5, zawartość 2
+13. Czas wykonania dodawania: 0,0028, klucz: 19, zawartość 61
+14. Czas wykonania dodawania: 0,0022, klucz: 8, zawartość 45
+15. Czas wykonania dodawania: 0,0024, klucz: 34, zawartość 90
+16. Czas wykonania dodawania: 0,0025, klucz: 38, zawartość 44
+17. Czas wykonania dodawania: 0,0014, klucz: 68, zawartość 26
+18. Czas wykonania dodawania: 0,0028, klucz: 55, zawartość 96
+19. Czas wykonania dodawania: 0,0031, klucz: 54, zawartość 51
+20. Czas wykonania dodawania: 0,0033, klucz: 66, zawartość 57
+21. Czas wykonania dodawania: 0,0026, klucz: 75, zawartość 2
+22. Czas wykonania dodawania: 0,0026, klucz: 80, zawartość 37
+23. Czas wykonania dodawania: 0,0028, klucz: 86, zawartość 7
+24. Czas wykonania dodawania: 0,0029, klucz: 91, zawartość 85
+25. Czas wykonania dodawania: 0,0021, klucz: 47, zawartość 88
+26. Czas wykonania dodawania: 0,0024, klucz: 39, zawartość 80
+27. Czas wykonania dodawania: 0,0022, klucz: 1, zawartość 65
+28. Czas wykonania dodawania: 0,0019, klucz: 48, zawartość 94
+29. Czas wykonania dodawania: 0,003, klucz: 12, zawartość 7
+30. Czas wykonania dodawania: 0,003, klucz: 52, zawartość 27
+31. Czas wykonania dodawania: 0,0029, klucz: 61, zawartość 84
+32. Czas wykonania dodawania: 0,0021, klucz: 91, zawartość 24
+33. Czas wykonania dodawania: 0,0032, klucz: 73, zawartość 94
+34. Czas wykonania dodawania: 0,004, klucz: 44, zawartość 14
+35. Czas wykonania dodawania: 0,0032, klucz: 9, zawartość 26
+36. Czas wykonania dodawania: 0,0031, klucz: 78, zawartość 87
+37. Czas wykonania dodawania: 0,0029, klucz: 60, zawartość 43
+38. Czas wykonania dodawania: 0,0028, klucz: 3, zawartość 28
+39. Czas wykonania dodawania: 0,0026, klucz: 10, zawartość 52
+40. Czas wykonania dodawania: 0,0026, klucz: 30, zawartość 82
+41. Czas wykonania dodawania: 0,0027, klucz: 1, zawartość 12
+42. Czas wykonania dodawania: 0,0028, klucz: 99, zawartość 4
+43. Czas wykonania dodawania: 0,0027, klucz: 30, zawartość 18
+44. Czas wykonania dodawania: 0,0034, klucz: 12, zawartość 15
+45. Czas wykonania dodawania: 0,0026, klucz: 30, zawartość 14
+46. Czas wykonania dodawania: 0,0029, klucz: 12, zawartość 23
+47. Czas wykonania dodawania: 0,0013, klucz: 80, zawartość 15
+48. Czas wykonania dodawania: 0,0034, klucz: 13, zawartość 57
+49. Czas wykonania dodawania: 0,0029, klucz: 71, zawartość 76
+50. Czas wykonania dodawania: 0,0012, klucz: 82, zawartość 83
+51. Czas wykonania dodawania: 0,0037, klucz: 77, zawartość 81
+52. Czas wykonania dodawania: 0,0031, klucz: 47, zawartość 27
+53. Czas wykonania dodawania: 0,0028, klucz: 77, zawartość 69
+54. Czas wykonania dodawania: 0,002, klucz: 87, zawartość 29
+55. Czas wykonania dodawania: 0,0021, klucz: 21, zawartość 46
+56. Czas wykonania dodawania: 0,0018, klucz: 71, zawartość 33
+57. Czas wykonania dodawania: 0,0027, klucz: 69, zawartość 25
+58. Czas wykonania dodawania: 0,002, klucz: 22, zawartość 42
+59. Czas wykonania dodawania: 0,0013, klucz: 32, zawartość 48
+60. Czas wykonania dodawania: 0,0015, klucz: 89, zawartość 98
+61. Czas wykonania dodawania: 0,0032, klucz: 51, zawartość 47
+62. Czas wykonania dodawania: 0,0022, klucz: 52, zawartość 48
+63. Czas wykonania dodawania: 0,0031, klucz: 3, zawartość 1
+64. Czas wykonania dodawania: 0,0024, klucz: 51, zawartość 14
+65. Czas wykonania dodawania: 0,0015, klucz: 5, zawartość 17
+66. Czas wykonania dodawania: 0,0012, klucz: 73, zawartość 68
+67. Czas wykonania dodawania: 0,0028, klucz: 46, zawartość 80
+68. Czas wykonania dodawania: 0,0017, klucz: 22, zawartość 12
+69. Czas wykonania dodawania: 0,0024, klucz: 30, zawartość 98
+70. Czas wykonania dodawania: 0,001, klucz: 47, zawartość 95
+71. Czas wykonania dodawania: 0,0026, klucz: 56, zawartość 69
+72. Czas wykonania dodawania: 0,0019, klucz: 17, zawartość 2
+73. Czas wykonania dodawania: 0,0027, klucz: 7, zawartość 76
+74. Czas wykonania dodawania: 0,0023, klucz: 54, zawartość 96
+75. Czas wykonania dodawania: 0,0024, klucz: 3, zawartość 15
+76. Czas wykonania dodawania: 0,0028, klucz: 74, zawartość 58
+77. Czas wykonania dodawania: 0,003, klucz: 98, zawartość 84
+78. Czas wykonania dodawania: 0,0025, klucz: 8, zawartość 39
+79. Czas wykonania dodawania: 0,0026, klucz: 94, zawartość 41
+80. Czas wykonania dodawania: 0,0032, klucz: 12, zawartość 46
+81. Czas wykonania dodawania: 0,003, klucz: 49, zawartość 79
+82. Czas wykonania dodawania: 0,0025, klucz: 74, zawartość 54
+83. Czas wykonania dodawania: 0,0016, klucz: 65, zawartość 27
+84. Czas wykonania dodawania: 0,0017, klucz: 31, zawartość 99
+85. Czas wykonania dodawania: 0,0035, klucz: 53, zawartość 17
+86. Czas wykonania dodawania: 0,0023, klucz: 3, zawartość 86
+87. Czas wykonania dodawania: 0,0017, klucz: 83, zawartość 90
+88. Czas wykonania dodawania: 0,0026, klucz: 82, zawartość 53
+89. Czas wykonania dodawania: 0,0029, klucz: 91, zawartość 95
+90. Czas wykonania dodawania: 0,002, klucz: 82, zawartość 3
+91. Czas wykonania dodawania: 0,0034, klucz: 37, zawartość 43
+92. Czas wykonania dodawania: 0,0019, klucz: 30, zawartość 27
+93. Czas wykonania dodawania: 0,0038, klucz: 81, zawartość 53
+94. Czas wykonania dodawania: 0,0028, klucz: 27, zawartość 79
+95. Czas wykonania dodawania: 0,0032, klucz: 5, zawartość 24
+1. Czas wykonania znajdowania: 0,0019, klucz: 82
+32. Czas wykonania znajdowania: 0,002, klucz: 29
+3. Czas wykonania znajdowania: 0,002, klucz: 42
+774. Czas wykonania znajdowania: 0,0018, klucz: 30
+275. Czas wykonania znajdowania: 0,002, klucz: 7
+766. Czas wykonania znajdowania: 0,0023, klucz: 97
+7. Czas wykonania znajdowania: 0,0029, klucz: 34
+908. Czas wykonania znajdowania: 0,0021, klucz: 63
+9. Czas wykonania znajdowania: 0,0021, klucz: 46
+8010. Czas wykonania znajdowania: 0,0021, klucz: 96
+1. Czas wykonania usuwania: 0,0031, klucz: 20
+2. Czas wykonania usuwania: 0,0022, klucz: 11
+3. Czas wykonania usuwania: 0,0031, klucz: 14
+4. Czas wykonania usuwania: 0,0031, klucz: 58
+5. Czas wykonania usuwania: 0,0032, klucz: 44
+6. Czas wykonania usuwania: 0,0028, klucz: 85
+7. Czas wykonania usuwania: 0,0028, klucz: 19
+8. Czas wykonania usuwania: 0,002, klucz: 70
+9. Czas wykonania usuwania: 0,003, klucz: 27
+10. Czas wykonania usuwania: 0,0037, klucz: 76
+
+Zestaw danych AVL: 9
+1. Czas wykonania dodawania: 0,002, klucz: 3, zawartość 6
+2. Czas wykonania dodawania: 0,0028, klucz: 4, zawartość 7
+3. Czas wykonania dodawania: 0,0018, klucz: 5, zawartość 8
+4. Czas wykonania dodawania: 0,0014, klucz: 6, zawartość 9
+5. Czas wykonania dodawania: 0,0024, klucz: 7, zawartość 10
+6. Czas wykonania dodawania: 0,0034, klucz: 8, zawartość 11
+7. Czas wykonania dodawania: 0,0032, klucz: 9, zawartość 12
+8. Czas wykonania dodawania: 0,0028, klucz: 10, zawartość 13
+9. Czas wykonania dodawania: 0,0027, klucz: 11, zawartość 14
+10. Czas wykonania dodawania: 0,0029, klucz: 12, zawartość 15
+11. Czas wykonania dodawania: 0,0027, klucz: 13, zawartość 16
+12. Czas wykonania dodawania: 0,0038, klucz: 14, zawartość 17
+13. Czas wykonania dodawania: 0,0029, klucz: 15, zawartość 18
+14. Czas wykonania dodawania: 0,0028, klucz: 16, zawartość 19
+15. Czas wykonania dodawania: 0,003, klucz: 17, zawartość 20
+16. Czas wykonania dodawania: 0,0022, klucz: 18, zawartość 21
+17. Czas wykonania dodawania: 0,0014, klucz: 19, zawartość 22
+18. Czas wykonania dodawania: 0,0014, klucz: 20, zawartość 23
+19. Czas wykonania dodawania: 0,0013, klucz: 21, zawartość 24
+20. Czas wykonania dodawania: 0,0013, klucz: 22, zawartość 25
+21. Czas wykonania dodawania: 0,0012, klucz: 23, zawartość 26
+22. Czas wykonania dodawania: 0,0013, klucz: 24, zawartość 27
+23. Czas wykonania dodawania: 0,0013, klucz: 25, zawartość 28
+1. Czas wykonania znajdowania: 0,0009, klucz: 83
+2. Czas wykonania znajdowania: 0,0008, klucz: 70
+3. Czas wykonania znajdowania: 0,0018, klucz: 73
+4. Czas wykonania znajdowania: 0,0008, klucz: 5
+85. Czas wykonania znajdowania: 0,001, klucz: 73
+6. Czas wykonania znajdowania: 0,0019, klucz: 21
+247. Czas wykonania znajdowania: 0,0016, klucz: 78
+8. Czas wykonania znajdowania: 0,0007, klucz: 72
+9. Czas wykonania znajdowania: 0,0008, klucz: 50
+10. Czas wykonania znajdowania: 0,0007, klucz: 99
+1. Czas wykonania usuwania: 0,0018, klucz: 53
+2. Czas wykonania usuwania: 0,0013, klucz: 33
+3. Czas wykonania usuwania: 0,0012, klucz: 41
+4. Czas wykonania usuwania: 0,0011, klucz: 30
+5. Czas wykonania usuwania: 0,0011, klucz: 27
+6. Czas wykonania usuwania: 0,0011, klucz: 88
+7. Czas wykonania usuwania: 0,0012, klucz: 64
+8. Czas wykonania usuwania: 0,0011, klucz: 37
+9. Czas wykonania usuwania: 0,0012, klucz: 15
+10. Czas wykonania usuwania: 0,0011, klucz: 50
+
+Zestaw danych AVL: 10
+1. Czas wykonania dodawania: 0,002, klucz: 17, zawartość 20
+2. Czas wykonania dodawania: 0,0014, klucz: 16, zawartość 19
+3. Czas wykonania dodawania: 0,0012, klucz: 15, zawartość 18
+4. Czas wykonania dodawania: 0,0013, klucz: 14, zawartość 17
+5. Czas wykonania dodawania: 0,001, klucz: 13, zawartość 16
+6. Czas wykonania dodawania: 0,0013, klucz: 12, zawartość 15
+7. Czas wykonania dodawania: 0,0012, klucz: 11, zawartość 14
+8. Czas wykonania dodawania: 0,0012, klucz: 10, zawartość 13
+9. Czas wykonania dodawania: 0,0011, klucz: 9, zawartość 12
+10. Czas wykonania dodawania: 0,0012, klucz: 8, zawartość 11
+11. Czas wykonania dodawania: 0,0012, klucz: 7, zawartość 10
+12. Czas wykonania dodawania: 0,0012, klucz: 6, zawartość 9
+13. Czas wykonania dodawania: 0,0013, klucz: 5, zawartość 8
+14. Czas wykonania dodawania: 0,0012, klucz: 4, zawartość 7
+15. Czas wykonania dodawania: 0,0012, klucz: 3, zawartość 6
+1. Czas wykonania znajdowania: 0,0008, klucz: 28
+2. Czas wykonania znajdowania: 0,0007, klucz: 40
+3. Czas wykonania znajdowania: 0,0007, klucz: 26
+4. Czas wykonania znajdowania: 0,0007, klucz: 26
+5. Czas wykonania znajdowania: 0,0007, klucz: 58
+6. Czas wykonania znajdowania: 0,0008, klucz: 3
+67. Czas wykonania znajdowania: 0,0008, klucz: 36
+8. Czas wykonania znajdowania: 0,0008, klucz: 3
+69. Czas wykonania znajdowania: 0,0008, klucz: 90
+10. Czas wykonania znajdowania: 0,0007, klucz: 38
+1. Czas wykonania usuwania: 0,0013, klucz: 71
+2. Czas wykonania usuwania: 0,0012, klucz: 18
+3. Czas wykonania usuwania: 0,0011, klucz: 57
+4. Czas wykonania usuwania: 0,0011, klucz: 39
+5. Czas wykonania usuwania: 0,001, klucz: 85
+6. Czas wykonania usuwania: 0,001, klucz: 48
+7. Czas wykonania usuwania: 0,001, klucz: 38
+8. Czas wykonania usuwania: 0,001, klucz: 46
+9. Czas wykonania usuwania: 0,001, klucz: 36
+10. Czas wykonania usuwania: 0,001, klucz: 48
