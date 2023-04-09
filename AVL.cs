@@ -99,9 +99,11 @@ namespace RecursiveDataStructuresK81
             return node;
         }
 
-        public void Remove(int key)
+        public bool Remove(int key)
         {
             root = Remove(root, key);
+
+            return root.Key != null ? true : false;
         }
 
         public NodeAVL Remove(NodeAVL node, int key)
